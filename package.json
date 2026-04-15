@@ -1,0 +1,10 @@
+{
+  "name": "trustlists-data",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Open trust-center dataset snapshots from TrustLists",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-data.mjs"
+  }
+}

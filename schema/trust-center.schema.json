@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/trustlists/trustlists-data/schema/trust-center.schema.json",
+  "title": "TrustLists trust center entry",
+  "type": "object",
+  "required": [
+    "name",
+    "website",
+    "trustCenter",
+    "platform",
+    "iconUrl"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "website": {
+      "type": "string",
+      "format": "uri"
+    },
+    "trustCenter": {
+      "type": "string",
+      "format": "uri"
+    },
+    "platform": {
+      "type": "string",
+      "minLength": 1
+    },
+    "iconUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    }
+  },
+  "additionalProperties": true
+}

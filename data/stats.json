@@ -1,0 +1,72 @@
+{
+  "totalCompanies": 1101,
+  "platformCounts": [
+    {
+      "platform": "Vanta",
+      "count": 509
+    },
+    {
+      "platform": "SafeBase",
+      "count": 325
+    },
+    {
+      "platform": "Oneleet",
+      "count": 128
+    },
+    {
+      "platform": "Conveyor",
+      "count": 42
+    },
+    {
+      "platform": "Self-hosted",
+      "count": 31
+    },
+    {
+      "platform": "Secureframe",
+      "count": 21
+    },
+    {
+      "platform": "Delve",
+      "count": 15
+    },
+    {
+      "platform": "SecurityPal",
+      "count": 7
+    },
+    {
+      "platform": "HyperComply",
+      "count": 5
+    },
+    {
+      "platform": "Whistic",
+      "count": 5
+    },
+    {
+      "platform": "Comp AI",
+      "count": 4
+    },
+    {
+      "platform": "Sprinto",
+      "count": 3
+    },
+    {
+      "platform": "TrustArc",
+      "count": 2
+    },
+    {
+      "platform": "Scrut",
+      "count": 2
+    },
+    {
+      "platform": "Iru",
+      "count": 1
+    },
+    {
+      "platform": "Anecdotes",
+      "count": 1
+    }
+  ],
+  "generated": "2026-04-14T17:29:51.036Z",
+  "syncedAt": "2026-04-15T00:26:29.220Z",
+  "source": "https://trustlists.org/api/stats.json"
+}
