@@ -1,0 +1,55 @@
+name: Data Correction
+description: Report incorrect, missing, or outdated trust-center data.
+title: "[Data]: "
+labels:
+  - data-correction
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve TrustLists Data. Please provide source links for proposed changes.
+  - type: input
+    id: company_name
+    attributes:
+      label: Company name
+      placeholder: Example Inc
+    validations:
+      required: true
+  - type: input
+    id: company_website
+    attributes:
+      label: Company website
+      placeholder: https://example.com
+    validations:
+      required: false
+  - type: input
+    id: current_value
+    attributes:
+      label: Current dataset value (if present)
+      placeholder: https://trust.old-example.com
+    validations:
+      required: false
+  - type: input
+    id: proposed_value
+    attributes:
+      label: Proposed corrected value
+      placeholder: https://trust.example.com
+    validations:
+      required: true
+  - type: textarea
+    id: source_links
+    attributes:
+      label: Source links
+      description: Public links that verify your proposed update.
+      placeholder: |
+        - https://example.com/trust
+        - https://example.com/security
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      placeholder: Any helpful context or edge cases.
+    validations:
+      required: false
