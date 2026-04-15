@@ -7673,7 +7673,7 @@
       ]
     },
     {
-      "name": "River",
+      "name": "RiverQueue",
       "website": "https://riverqueue.com",
       "trustCenter": "https://trust.riverqueue.com",
       "platform": "Self-hosted",
@@ -9609,7 +9609,7 @@
       ]
     },
     {
-      "name": "Vratix",
+      "name": "vratix.com",
       "website": "https://vratix.com",
       "trustCenter": "https://trust.vratix.com/",
       "platform": "Comp AI",
@@ -10024,9 +10024,7 @@
   ],
   "meta": {
     "total": 1101,
-    "generated": "2026-04-14T17:29:50.984Z",
+    "generated": "2026-04-14T08:16:23.210Z",
     "version": "1.0.0"
-  },
-  "syncedAt": "2026-04-15T00:26:29.220Z",
-  "source": "https://trustlists.org/api/trust-centers.json"
+  }
 }
