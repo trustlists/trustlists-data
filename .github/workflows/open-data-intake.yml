@@ -28,6 +28,8 @@ jobs:
 
       - name: Create intake issue in TrustLists
         uses: actions/github-script@v7
+        env:
+          INTAKE_DEFAULT_ASSIGNEES: ${{ vars.INTAKE_DEFAULT_ASSIGNEES }}
         with:
           github-token: ${{ secrets.TRUSTLISTS_MAIN_REPO_TOKEN }}
           script: |
@@ -40,6 +42,14 @@ jobs:
             const shortSha = sha.substring(0, 7);
             const compareUrl = context.payload.compare || `https://github.com/${sourceOwner}/${sourceRepo}/commits/${branch}`;
             const sourceCommitUrl = `https://github.com/${sourceOwner}/${sourceRepo}/commit/${sha}`;
+            const defaultLabels = [
+              { name: 'open-data-intake', color: '0e8a16', description: 'Incoming data update from trustlists-data' },
+              { name: 'needs-review', color: 'fbca04', description: 'Needs maintainer review before promotion' },
+            ];
+            const assignees = String(process.env.INTAKE_DEFAULT_ASSIGNEES || '')
+              .split(',')
+              .map((v) => v.trim())
+              .filter(Boolean);
 
             const title = `Open-data intake: review ${sourceRepo}@${shortSha}`;
             const body = [
@@ -58,9 +68,31 @@ jobs:
               '- [ ] Open PR to `trustlists/TrustLists` if approved',
             ].join('\n');
 
+            // Ensure required labels exist before issue creation.
+            for (const label of defaultLabels) {
+              try {
+                await github.rest.issues.getLabel({
+                  owner,
+                  repo,
+                  name: label.name,
+                });
+              } catch (error) {
+                if (error.status !== 404) throw error;
+                await github.rest.issues.createLabel({
+                  owner,
+                  repo,
+                  name: label.name,
+                  color: label.color,
+                  description: label.description,
+                });
+              }
+            }
+
             await github.rest.issues.create({
               owner,
               repo,
               title,
               body,
+              labels: defaultLabels.map((label) => label.name),
+              assignees,
             });

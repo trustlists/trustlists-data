@@ -52,6 +52,12 @@ and writes snapshots into `data/`.
 - In `trustlists/TrustLists`: `TRUSTLISTS_DATA_PUSH_TOKEN`
 - In `trustlists/trustlists-data`: `TRUSTLISTS_MAIN_REPO_TOKEN`
 
+### Optional GitHub variables
+
+- In `trustlists/trustlists-data`: `INTAKE_DEFAULT_ASSIGNEES`  
+  Comma-separated GitHub usernames to auto-assign on intake issues
+  (example: `felixmichvels` or `felixmichvels,teammate`).
+
 ## Contributing
 
 Please open an issue first for large structural changes.
