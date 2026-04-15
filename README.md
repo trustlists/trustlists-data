@@ -40,6 +40,18 @@ This command fetches:
 
 and writes snapshots into `data/`.
 
+## Automation flow
+
+- `trustlists/TrustLists` mirrors generated snapshots into this repository automatically.
+- Merges that come from the mirror sync include `[skip-intake]` to prevent intake loops.
+- Other data updates in this repository open an intake issue in `trustlists/TrustLists`
+  for maintainer review and promotion.
+
+### Required GitHub secrets
+
+- In `trustlists/TrustLists`: `TRUSTLISTS_DATA_PUSH_TOKEN`
+- In `trustlists/trustlists-data`: `TRUSTLISTS_MAIN_REPO_TOKEN`
+
 ## Contributing
 
 Please open an issue first for large structural changes.
