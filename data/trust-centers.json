@@ -274,7 +274,14 @@
       "website": "https://airwallex.com",
       "trustCenter": "https://security.airwallex.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=airwallex.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=airwallex.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 2 Type I",
+        "ISO 27001",
+        "PCI DSS",
+        "GDPR"
+      ]
     },
     {
       "name": "Aisdr",
@@ -359,7 +366,10 @@
       "website": "https://alloy.com",
       "trustCenter": "https://trust.alloy.com",
       "platform": "Conveyor",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=alloy.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=alloy.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Allstacks",
@@ -638,14 +648,27 @@
       "website": "https://www.arpari.com",
       "trustCenter": "https://trust.arpari.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=arpari.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=arpari.com&sz=128",
+      "certifications": [
+        "SOC 2 Type I"
+      ]
     },
     {
       "name": "Articulate",
       "website": "https://articulate.com",
       "trustCenter": "https://trust.articulate.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=articulate.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=articulate.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27701",
+        "ISO 42001",
+        "FedRAMP",
+        "GDPR",
+        "CSA STAR",
+        "NIST"
+      ]
     },
     {
       "name": "Artie",
@@ -856,7 +879,12 @@
       "website": "https://autofi.com",
       "trustCenter": "https://trust.autofi.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=autofi.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=autofi.com&sz=128",
+      "certifications": [
+        "SOC 2",
+        "SOC 3",
+        "CCPA"
+      ]
     },
     {
       "name": "Autotab",
@@ -901,7 +929,12 @@
       "website": "https://www.avenir.com.ai",
       "trustCenter": "https://trust.avenir.com.ai",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=avenir.com.ai&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=avenir.com.ai&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 2 Type I",
+        "HIPAA"
+      ]
     },
     {
       "name": "AviaryAI",
@@ -1079,7 +1112,15 @@
       "website": "https://betterup.com",
       "trustCenter": "https://trust.betterup.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=betterup.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=betterup.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "FedRAMP",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "BeyondTrust",
@@ -1563,7 +1604,10 @@
       "website": "https://www.cascading.ai/",
       "trustCenter": "https://trust.cascading.ai",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=cascading.ai&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cascading.ai&sz=128",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Casco",
@@ -1932,7 +1976,16 @@
       "website": "https://clio.com",
       "trustCenter": "https://trust.clio.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=clio.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=clio.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA",
+        "PCI DSS",
+        "GDPR",
+        "NIST",
+        "TX-RAMP"
+      ]
     },
     {
       "name": "Close",
@@ -2912,7 +2965,12 @@
       "website": "https://deputy.com",
       "trustCenter": "https://trust.deputy.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=deputy.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=deputy.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "TX-RAMP"
+      ]
     },
     {
       "name": "Deque",
@@ -3320,7 +3378,17 @@
       "website": "https://eightfold.ai",
       "trustCenter": "https://trust.eightfold.ai",
       "platform": "Conveyor",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=eightfold.ai&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=eightfold.ai&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "FedRAMP",
+        "GDPR",
+        "NIST",
+        "TX-RAMP",
+        "StateRAMP"
+      ]
     },
     {
       "name": "Elayne",
@@ -3489,7 +3557,19 @@
       "website": "https://everlaw.com",
       "trustCenter": "https://trust.everlaw.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=everlaw.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=everlaw.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "HIPAA",
+        "FedRAMP",
+        "GDPR",
+        "CCPA",
+        "StateRAMP"
+      ]
     },
     {
       "name": "Exa",
@@ -3532,7 +3612,11 @@
       "website": "https://www.expediagroup.com",
       "trustCenter": "https://egscc.expediagroup.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=expediagroup.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=expediagroup.com&sz=128",
+      "certifications": [
+        "SOC 2",
+        "PCI DSS"
+      ]
     },
     {
       "name": "Expensify",
@@ -3710,7 +3794,13 @@
       "website": "https://fireblocks.com",
       "trustCenter": "https://trust.fireblocks.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=fireblocks.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=fireblocks.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018"
+      ]
     },
     {
       "name": "Firecrawl",
@@ -3808,7 +3898,15 @@
       "website": "https://fleetio.com",
       "trustCenter": "https://trust.fleetio.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=fleetio.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=fleetio.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "PCI DSS",
+        "GDPR",
+        "CCPA",
+        "CSA STAR",
+        "TX-RAMP"
+      ]
     },
     {
       "name": "Float Health",
@@ -4305,7 +4403,12 @@
       "website": "https://greenlight.com",
       "trustCenter": "https://trust.greenlight.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=greenlight.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=greenlight.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "PCI DSS",
+        "NIST"
+      ]
     },
     {
       "name": "Greenlight Guru",
@@ -4664,7 +4767,15 @@
       "website": "https://highradius.com",
       "trustCenter": "https://trust.highradius.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=highradius.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=highradius.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "PCI DSS",
+        "GDPR",
+        "TX-RAMP"
+      ]
     },
     {
       "name": "Hightouch",
@@ -4809,7 +4920,12 @@
       "website": "https://huntress.com",
       "trustCenter": "https://trust.huntress.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=huntress.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=huntress.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "Hyperbound",
@@ -4885,7 +5001,14 @@
       "website": "https://illumio.com",
       "trustCenter": "https://trust.illumio.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=illumio.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=illumio.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27701",
+        "FedRAMP",
+        "PCI DSS"
+      ]
     },
     {
       "name": "Impartner",
@@ -5175,7 +5298,11 @@
       "website": "http://www.tryjeeves.com",
       "trustCenter": "https://trust.tryjeeves.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=tryjeeves.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=tryjeeves.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "PCI DSS"
+      ]
     },
     {
       "name": "Jerry",
@@ -5297,7 +5424,13 @@
       "website": "https://karat.com",
       "trustCenter": "https://trust.karat.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=karat.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=karat.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA",
+        "CPRA"
+      ]
     },
     {
       "name": "Karat Financial",
@@ -5719,7 +5852,17 @@
       "website": "https://league.com",
       "trustCenter": "https://trust.league.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=league.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=league.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA",
+        "HITRUST",
+        "GDPR",
+        "CCPA",
+        "CPRA",
+        "NIST"
+      ]
     },
     {
       "name": "Leena AI",
@@ -5766,7 +5909,17 @@
       "website": "https://letsgetchecked.com",
       "trustCenter": "https://trust.letsgetchecked.com",
       "platform": "Conveyor",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=letsgetchecked.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=letsgetchecked.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "HIPAA",
+        "HITRUST",
+        "FedRAMP",
+        "GDPR",
+        "CCPA",
+        "NIST"
+      ]
     },
     {
       "name": "Level AI",
@@ -5801,7 +5954,15 @@
       "website": "https://lightricks.com",
       "trustCenter": "https://trust.lightricks.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=lightricks.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=lightricks.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "PCI DSS",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "Lilac",
@@ -6091,7 +6252,13 @@
       "website": "https://manypets.com",
       "trustCenter": "https://trust.manypets.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=manypets.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=manypets.com&sz=128",
+      "certifications": [
+        "ISO 27001",
+        "PCI DSS",
+        "GDPR",
+        "CSA STAR"
+      ]
     },
     {
       "name": "MapBox",
@@ -6508,7 +6675,14 @@
       "website": "https://moloco.com",
       "trustCenter": "https://trust.moloco.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=moloco.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=moloco.com&sz=128",
+      "certifications": [
+        "SOC 2 Type I",
+        "ISO 27001",
+        "GDPR",
+        "CCPA",
+        "CSA STAR"
+      ]
     },
     {
       "name": "Momentic",
@@ -6619,7 +6793,10 @@
       "website": "https://www.movedot.ai/",
       "trustCenter": "https://trust.movedot.ai",
       "platform": "Secureframe",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=movedot.ai&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=movedot.ai&sz=128",
+      "certifications": [
+        "SOC 2"
+      ]
     },
     {
       "name": "MParticle",
@@ -6940,7 +7117,17 @@
       "website": "https://ocrolus.com",
       "trustCenter": "https://security.ocrolus.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=ocrolus.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=ocrolus.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "PCI DSS",
+        "GDPR",
+        "CCPA",
+        "CPRA",
+        "CSA STAR"
+      ]
     },
     {
       "name": "OfficeSpace Software",
@@ -7085,7 +7272,11 @@
       "website": "https://openevidence.com",
       "trustCenter": "https://trust.openevidence.com",
       "platform": "Secureframe",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=openevidence.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=openevidence.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "HIPAA"
+      ]
     },
     {
       "name": "Openlayer",
@@ -7127,7 +7318,17 @@
       "website": "https://openspace.ai",
       "trustCenter": "https://security.openspace.ai",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=openspace.ai&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=openspace.ai&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "GDPR",
+        "CCPA",
+        "CPRA",
+        "CSA STAR",
+        "NIST",
+        "TX-RAMP"
+      ]
     },
     {
       "name": "Opine",
@@ -7193,7 +7394,18 @@
       "website": "https://outsystems.com",
       "trustCenter": "https://security.outsystems.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=outsystems.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=outsystems.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "HIPAA",
+        "PCI DSS",
+        "GDPR",
+        "CSA STAR",
+        "NIST"
+      ]
     },
     {
       "name": "Ovida",
@@ -7301,7 +7513,15 @@
       "website": "https://parloa.com",
       "trustCenter": "https://trust.parloa.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=parloa.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=parloa.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 2 Type I",
+        "ISO 27001",
+        "HIPAA",
+        "PCI DSS",
+        "GDPR"
+      ]
     },
     {
       "name": "Parsewise",
@@ -7497,7 +7717,12 @@
       "website": "https://plaid.com",
       "trustCenter": "https://security.plaid.com",
       "platform": "SecurityPal",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=plaid.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=plaid.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27701"
+      ]
     },
     {
       "name": "Plain",
@@ -7553,7 +7778,15 @@
       "website": "https://pointclickcare.com",
       "trustCenter": "https://trust.pointclickcare.com",
       "platform": "Conveyor",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=pointclickcare.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=pointclickcare.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "HITRUST",
+        "FedRAMP",
+        "GDPR",
+        "NIST"
+      ]
     },
     {
       "name": "PointOne",
@@ -7574,7 +7807,17 @@
       "website": "https://pontera.com",
       "trustCenter": "https://security.pontera.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=pontera.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=pontera.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "PCI DSS",
+        "CCPA",
+        "CPRA",
+        "CSA STAR"
+      ]
     },
     {
       "name": "Popl",
@@ -7673,14 +7916,38 @@
       "website": "https://productboard.com",
       "trustCenter": "https://trust.productboard.com",
       "platform": "Conveyor",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=productboard.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=productboard.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "ISO 42001",
+        "HIPAA",
+        "HITRUST",
+        "FedRAMP",
+        "GDPR",
+        "CCPA",
+        "NIST",
+        "TX-RAMP"
+      ]
     },
     {
       "name": "project44",
       "website": "https://project44.com",
       "trustCenter": "https://trust.project44.com",
       "platform": "Conveyor",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=project44.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=project44.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "HIPAA",
+        "HITRUST",
+        "FedRAMP",
+        "PCI DSS",
+        "GDPR",
+        "CCPA",
+        "TX-RAMP"
+      ]
     },
     {
       "name": "ProjectDiscovery",
@@ -7867,7 +8134,14 @@
       "website": "https://quantexa.com",
       "trustCenter": "https://trust.quantexa.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=quantexa.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=quantexa.com&sz=128",
+      "certifications": [
+        "SOC 2 Type I",
+        "ISO 27001",
+        "ISO 27017",
+        "GDPR",
+        "NIST"
+      ]
     },
     {
       "name": "Quartzy",
@@ -8465,7 +8739,15 @@
       "website": "https://rokt.com",
       "trustCenter": "https://compliance.rokt.com",
       "platform": "SecurityPal",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=rokt.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=rokt.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "PCI DSS",
+        "GDPR",
+        "CCPA",
+        "NIST"
+      ]
     },
     {
       "name": "Rollstack",
@@ -8819,7 +9101,11 @@
       "website": "https://sendcloud.com",
       "trustCenter": "https://trust.sendcloud.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=sendcloud.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=sendcloud.com&sz=128",
+      "certifications": [
+        "ISO 27001",
+        "GDPR"
+      ]
     },
     {
       "name": "Sendoso",
@@ -8940,7 +9226,16 @@
       "website": "https://silverfort.com",
       "trustCenter": "https://trust.silverfort.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=silverfort.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=silverfort.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "PCI DSS",
+        "GDPR",
+        "CCPA",
+        "CPRA",
+        "NIST"
+      ]
     },
     {
       "name": "Simetrik",
@@ -9140,7 +9435,12 @@
       "website": "https://snorkel.ai",
       "trustCenter": "https://security.snorkel.ai",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=snorkel.ai&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=snorkel.ai&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "HIPAA",
+        "NIST"
+      ]
     },
     {
       "name": "Snowflake",
@@ -9251,7 +9551,12 @@
       "website": "https://spinach.ai",
       "trustCenter": "https://trust.spinach.ai",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=spinach.ai&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=spinach.ai&sz=128",
+      "certifications": [
+        "SOC 2",
+        "HIPAA",
+        "GDPR"
+      ]
     },
     {
       "name": "Spline",
@@ -9394,7 +9699,14 @@
       "website": "https://stord.com",
       "trustCenter": "https://trust.stord.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=stord.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=stord.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "Storylane",
@@ -9601,7 +9913,16 @@
       "website": "https://t-mobile.com",
       "trustCenter": "https://security.t-mobile.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=t-mobile.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=t-mobile.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 2 Type I",
+        "SOC 3",
+        "ISO 27001",
+        "PCI DSS",
+        "CCPA",
+        "NIST"
+      ]
     },
     {
       "name": "Take2.ai",
@@ -9990,7 +10311,17 @@
       "website": "https://tricentis.com",
       "trustCenter": "https://security.tricentis.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=tricentis.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=tricentis.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 2 Type I",
+        "SOC 3",
+        "ISO 27001",
+        "ISO 27701",
+        "ISO 42001",
+        "GDPR",
+        "NIST"
+      ]
     },
     {
       "name": "Trigger.dev",
@@ -10064,7 +10395,14 @@
       "website": "https://truveta.com",
       "trustCenter": "https://trust.truveta.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=truveta.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=truveta.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27018",
+        "ISO 27701",
+        "HITRUST"
+      ]
     },
     {
       "name": "Twelve Labs",
@@ -10168,7 +10506,17 @@
       "website": "https://uniphore.com",
       "trustCenter": "https://trust.uniphore.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=uniphore.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=uniphore.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701",
+        "HIPAA",
+        "PCI DSS",
+        "GDPR"
+      ]
     },
     {
       "name": "Unisson",
@@ -10235,7 +10583,12 @@
       "website": "https://upside.com",
       "trustCenter": "https://trust.upside.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=upside.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=upside.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "CCPA"
+      ]
     },
     {
       "name": "Uptime.com",
@@ -10363,7 +10716,13 @@
       "website": "https://tryvela.ai",
       "trustCenter": "https://trust.tryvela.ai",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=tryvela.ai&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=tryvela.ai&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA",
+        "NIST"
+      ]
     },
     {
       "name": "Veles",
@@ -10419,7 +10778,12 @@
       "website": "https://www.veritus.com",
       "trustCenter": "https://trust.veritus.com",
       "platform": "Secureframe",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=veritus.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=veritus.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA"
+      ]
     },
     {
       "name": "Veritus Agent",
@@ -10943,7 +11307,14 @@
       "website": "https://yugabyte.com",
       "trustCenter": "https://compliance.yugabyte.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=yugabyte.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=yugabyte.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "PCI DSS",
+        "GDPR"
+      ]
     },
     {
       "name": "Zapier",
@@ -10968,7 +11339,16 @@
       "website": "https://zenoti.com",
       "trustCenter": "https://trust.zenoti.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=zenoti.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=zenoti.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27701",
+        "HIPAA",
+        "PCI DSS",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "Zep AI",
@@ -11055,7 +11435,26 @@
       "website": "https://www.zscaler.com",
       "trustCenter": "https://compliance.zscaler.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=zscaler.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=zscaler.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701",
+        "HIPAA",
+        "HITRUST",
+        "FedRAMP",
+        "PCI DSS",
+        "GDPR",
+        "CCPA",
+        "CPRA",
+        "CSA STAR",
+        "NIST",
+        "TX-RAMP",
+        "StateRAMP"
+      ]
     },
     {
       "name": "Zuddl",
@@ -11067,7 +11466,7 @@
   ],
   "meta": {
     "total": 1250,
-    "generated": "2026-04-15T07:44:19.814Z",
+    "generated": "2026-04-15T08:04:39.073Z",
     "version": "1.0.0"
   }
 }
