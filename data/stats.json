@@ -3,11 +3,11 @@
   "platformCounts": [
     {
       "platform": "Vanta",
-      "count": 613
+      "count": 611
     },
     {
       "platform": "SafeBase",
-      "count": 419
+      "count": 420
     },
     {
       "platform": "Oneleet",
@@ -58,13 +58,13 @@
       "count": 2
     },
     {
-      "platform": "Iru",
-      "count": 1
+      "platform": "Anecdotes",
+      "count": 2
     },
     {
-      "platform": "Anecdotes",
+      "platform": "Iru",
       "count": 1
     }
   ],
-  "generated": "2026-04-16T13:06:29.411Z"
+  "generated": "2026-04-16T13:16:19.097Z"
 }

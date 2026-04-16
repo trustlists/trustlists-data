@@ -9689,7 +9689,7 @@
       "name": "Simondata",
       "website": "https://simondata.com",
       "trustCenter": "https://trust.simon.ai/",
-      "platform": "Vanta",
+      "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=simondata.com&sz=128"
     },
     {
@@ -10814,7 +10814,7 @@
       "name": "Treasuredata",
       "website": "https://treasuredata.com",
       "trustCenter": "https://trust.treasuredata.com/",
-      "platform": "Vanta",
+      "platform": "Anecdotes",
       "iconUrl": "https://www.google.com/s2/favicons?domain=treasuredata.com&sz=128"
     },
     {
@@ -12019,7 +12019,7 @@
   ],
   "meta": {
     "total": 1329,
-    "generated": "2026-04-16T13:06:29.349Z",
+    "generated": "2026-04-16T13:16:19.039Z",
     "version": "1.0.0"
   }
 }
