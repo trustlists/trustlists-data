@@ -1,13 +1,13 @@
 {
-  "totalCompanies": 1250,
+  "totalCompanies": 1329,
   "platformCounts": [
     {
       "platform": "Vanta",
-      "count": 571
+      "count": 604
     },
     {
       "platform": "SafeBase",
-      "count": 387
+      "count": 417
     },
     {
       "platform": "Oneleet",
@@ -15,7 +15,7 @@
     },
     {
       "platform": "Conveyor",
-      "count": 48
+      "count": 52
     },
     {
       "platform": "Self-hosted",
@@ -23,11 +23,15 @@
     },
     {
       "platform": "Secureframe",
-      "count": 24
+      "count": 25
     },
     {
       "platform": "Delve",
       "count": 15
+    },
+    {
+      "platform": "Unknown",
+      "count": 11
     },
     {
       "platform": "SecurityPal",
@@ -66,5 +70,5 @@
       "count": 1
     }
   ],
-  "generated": "2026-04-15T08:04:39.406Z"
+  "generated": "2026-04-16T12:54:32.234Z"
 }
