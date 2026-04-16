@@ -497,6 +497,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=andela.com&sz=128"
     },
     {
+      "name": "Anecdotes",
+      "website": "https://www.anecdotes.ai/",
+      "trustCenter": "https://trust.anecdotes.ai/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=anecdotes.ai&sz=128"
+    },
+    {
       "name": "Angeleyehealth",
       "website": "https://angeleyehealth.com",
       "trustCenter": "https://trust.angeleyehealth.com/",
@@ -11607,7 +11614,7 @@
       "name": "Webflow",
       "website": "https://webflow.com/",
       "trustCenter": "https://trust.webflow.com/",
-      "platform": "Anecdotes",
+      "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=webflow.com&sz=128",
       "certifications": [
         "SOC 2 Type II",
@@ -12018,8 +12025,8 @@
     }
   ],
   "meta": {
-    "total": 1329,
-    "generated": "2026-04-16T13:16:19.039Z",
+    "total": 1330,
+    "generated": "2026-04-16T13:20:23.710Z",
     "version": "1.0.0"
   }
 }

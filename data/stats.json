@@ -1,5 +1,5 @@
 {
-  "totalCompanies": 1329,
+  "totalCompanies": 1330,
   "platformCounts": [
     {
       "platform": "Vanta",
@@ -7,7 +7,7 @@
     },
     {
       "platform": "SafeBase",
-      "count": 420
+      "count": 422
     },
     {
       "platform": "Oneleet",
@@ -58,13 +58,13 @@
       "count": 2
     },
     {
-      "platform": "Anecdotes",
-      "count": 2
+      "platform": "Iru",
+      "count": 1
     },
     {
-      "platform": "Iru",
+      "platform": "Anecdotes",
       "count": 1
     }
   ],
-  "generated": "2026-04-16T13:16:19.097Z"
+  "generated": "2026-04-16T13:20:23.772Z"
 }
