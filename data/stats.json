@@ -3,11 +3,11 @@
   "platformCounts": [
     {
       "platform": "Vanta",
-      "count": 604
+      "count": 613
     },
     {
       "platform": "SafeBase",
-      "count": 417
+      "count": 419
     },
     {
       "platform": "Oneleet",
@@ -28,10 +28,6 @@
     {
       "platform": "Delve",
       "count": 15
-    },
-    {
-      "platform": "Unknown",
-      "count": 11
     },
     {
       "platform": "SecurityPal",
@@ -70,5 +66,5 @@
       "count": 1
     }
   ],
-  "generated": "2026-04-16T12:54:32.234Z"
+  "generated": "2026-04-16T13:06:29.411Z"
 }

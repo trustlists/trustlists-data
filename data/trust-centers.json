@@ -1216,7 +1216,7 @@
       "name": "Binalyze",
       "website": "https://binalyze.com",
       "trustCenter": "https://trust.binalyze.com",
-      "platform": "Unknown",
+      "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=binalyze.com&sz=128"
     },
     {
@@ -2190,7 +2190,7 @@
       "name": "Cohesionib",
       "website": "https://cohesionib.com",
       "trustCenter": "https://trust.cohesionib.com",
-      "platform": "Unknown",
+      "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=cohesionib.com&sz=128"
     },
     {
@@ -3642,7 +3642,7 @@
       "name": "Esgagent",
       "website": "https://esgagent.ai",
       "trustCenter": "https://trust.esgagent.ai/",
-      "platform": "Unknown",
+      "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=esgagent.ai&sz=128"
     },
     {
@@ -4699,7 +4699,7 @@
       "name": "Gryphon",
       "website": "https://gryphon.ai",
       "trustCenter": "https://trust.gryphon.ai/",
-      "platform": "Unknown",
+      "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=gryphon.ai&sz=128"
     },
     {
@@ -5786,7 +5786,7 @@
       "name": "Kinsta",
       "website": "https://kinsta.com",
       "trustCenter": "https://trust.kinsta.com/",
-      "platform": "Unknown",
+      "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=kinsta.com&sz=128"
     },
     {
@@ -6288,7 +6288,7 @@
       "name": "Lingco",
       "website": "https://lingco.io",
       "trustCenter": "https://trust.lingco.io/",
-      "platform": "Unknown",
+      "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=lingco.io&sz=128"
     },
     {
@@ -9000,7 +9000,7 @@
       "name": "Rho",
       "website": "https://rho.co",
       "trustCenter": "https://trust.rho.co",
-      "platform": "Unknown",
+      "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=rho.co&sz=128"
     },
     {
@@ -9404,7 +9404,7 @@
       "name": "Saviynt",
       "website": "https://saviynt.com",
       "trustCenter": "https://trust.saviynt.com/",
-      "platform": "Unknown",
+      "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=saviynt.com&sz=128"
     },
     {
@@ -9689,7 +9689,7 @@
       "name": "Simondata",
       "website": "https://simondata.com",
       "trustCenter": "https://trust.simon.ai/",
-      "platform": "Unknown",
+      "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=simondata.com&sz=128"
     },
     {
@@ -10814,7 +10814,7 @@
       "name": "Treasuredata",
       "website": "https://treasuredata.com",
       "trustCenter": "https://trust.treasuredata.com/",
-      "platform": "Unknown",
+      "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=treasuredata.com&sz=128"
     },
     {
@@ -11736,7 +11736,7 @@
       "name": "Withrealcustomers",
       "website": "https://withrealcustomers.com",
       "trustCenter": "https://trust.withrealcustomers.com",
-      "platform": "Unknown",
+      "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=withrealcustomers.com&sz=128"
     },
     {
@@ -12019,7 +12019,7 @@
   ],
   "meta": {
     "total": 1329,
-    "generated": "2026-04-16T12:54:31.858Z",
+    "generated": "2026-04-16T13:06:29.349Z",
     "version": "1.0.0"
   }
 }
