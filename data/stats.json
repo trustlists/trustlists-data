@@ -1,5 +1,5 @@
 {
-  "totalCompanies": 1336,
+  "totalCompanies": 1339,
   "platformCounts": [
     {
       "platform": "Vanta",
@@ -50,6 +50,10 @@
       "count": 3
     },
     {
+      "platform": "Bastion",
+      "count": 2
+    },
+    {
       "platform": "TrustArc",
       "count": 2
     },
@@ -62,9 +66,13 @@
       "count": 1
     },
     {
+      "platform": "Strikegraph",
+      "count": 1
+    },
+    {
       "platform": "Anecdotes",
       "count": 1
     }
   ],
-  "generated": "2026-04-19T06:04:18.633Z"
+  "generated": "2026-04-19T08:11:33.718Z"
 }

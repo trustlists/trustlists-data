@@ -393,11 +393,11 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=allus.ai&sz=128"
     },
     {
-      "name": "almanax",
-      "website": "https://trust.almanax.ai",
+      "name": "Almanax",
+      "website": "https://almanax.ai",
       "trustCenter": "https://trust.almanax.ai/",
       "platform": "Vanta",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=trust.almanax.ai&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=almanax.ai&sz=128"
     },
     {
       "name": "Alokai",
@@ -1091,6 +1091,13 @@
         "SOC 2 Type II",
         "PCI DSS"
       ]
+    },
+    {
+      "name": "Bastion",
+      "website": "https://bastion.tech",
+      "trustCenter": "https://trust.bastion.tech/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bastion.tech&sz=128"
     },
     {
       "name": "Bead AI",
@@ -2531,7 +2538,7 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=covertree.com&sz=128"
     },
     {
-      "name": "cratorlabs.ai",
+      "name": "Crator",
       "website": "https://cratorlabs.ai",
       "trustCenter": "https://trust.cratorlabs.ai/",
       "platform": "Vanta",
@@ -4233,7 +4240,7 @@
       ]
     },
     {
-      "name": "friendli.ai",
+      "name": "Friendli",
       "website": "https://friendli.ai",
       "trustCenter": "https://trust.friendli.ai/",
       "platform": "Vanta",
@@ -7320,6 +7327,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=netlify.com&sz=128"
     },
     {
+      "name": "NetLink Voice",
+      "website": "https://netlinkvoice.com",
+      "trustCenter": "https://trust.netlinkvoice.com/",
+      "platform": "Strikegraph",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=netlinkvoice.com&sz=128"
+    },
+    {
       "name": "Netrise",
       "website": "https://www.netrise.io/",
       "trustCenter": "https://trust.netrise.io/",
@@ -7354,7 +7368,7 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=neuron7.ai&sz=128"
     },
     {
-      "name": "nexhelm.ai",
+      "name": "Nexhelm",
       "website": "https://nexhelm.ai",
       "trustCenter": "https://trust.nexhelm.ai/",
       "platform": "SafeBase",
@@ -8304,11 +8318,11 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=sayprimer.com&sz=128"
     },
     {
-      "name": "privy",
-      "website": "https://trust.privy.io",
+      "name": "Privy",
+      "website": "https://privy.io",
       "trustCenter": "https://trust.privy.io/",
       "platform": "Vanta",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=trust.privy.io&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=privy.io&sz=128"
     },
     {
       "name": "Procore",
@@ -9462,6 +9476,13 @@
       "trustCenter": "https://trust.scape.app",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=scape.app&sz=128"
+    },
+    {
+      "name": "Scenario",
+      "website": "https://scenario.com",
+      "trustCenter": "https://trust.scenario.com/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=scenario.com&sz=128"
     },
     {
       "name": "SchemeFlow",
@@ -11062,7 +11083,7 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=unanet.com&sz=128"
     },
     {
-      "name": "understand.tech",
+      "name": "Understand",
       "website": "https://understand.tech",
       "trustCenter": "https://trust.understand.tech/",
       "platform": "Vanta",
@@ -12067,8 +12088,8 @@
     }
   ],
   "meta": {
-    "total": 1336,
-    "generated": "2026-04-19T06:04:18.567Z",
+    "total": 1339,
+    "generated": "2026-04-19T08:11:33.653Z",
     "version": "1.0.0"
   }
 }
