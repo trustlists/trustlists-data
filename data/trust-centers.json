@@ -393,6 +393,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=allus.ai&sz=128"
     },
     {
+      "name": "almanax",
+      "website": "https://trust.almanax.ai",
+      "trustCenter": "https://trust.almanax.ai/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=trust.almanax.ai&sz=128"
+    },
+    {
       "name": "Alokai",
       "website": "https://www.alokai.com",
       "trustCenter": "https://trust.alokai.com",
@@ -2524,6 +2531,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=covertree.com&sz=128"
     },
     {
+      "name": "cratorlabs.ai",
+      "website": "https://cratorlabs.ai",
+      "trustCenter": "https://trust.cratorlabs.ai/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cratorlabs.ai&sz=128"
+    },
+    {
       "name": "Credal.ai",
       "website": "https://credal.ai",
       "trustCenter": "https://trust.credal.ai",
@@ -4217,6 +4231,13 @@
         "CSA STAR",
         "TX-RAMP"
       ]
+    },
+    {
+      "name": "friendli.ai",
+      "website": "https://friendli.ai",
+      "trustCenter": "https://trust.friendli.ai/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=friendli.ai&sz=128"
     },
     {
       "name": "Front",
@@ -7333,6 +7354,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=neuron7.ai&sz=128"
     },
     {
+      "name": "nexhelm.ai",
+      "website": "https://nexhelm.ai",
+      "trustCenter": "https://trust.nexhelm.ai/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=nexhelm.ai&sz=128"
+    },
+    {
       "name": "NFP",
       "website": "https://www.nfp.com/",
       "trustCenter": "https://trust.nfp.com/",
@@ -8274,6 +8302,13 @@
       "trustCenter": "https://trust.sayprimer.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=sayprimer.com&sz=128"
+    },
+    {
+      "name": "privy",
+      "website": "https://trust.privy.io",
+      "trustCenter": "https://trust.privy.io/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=trust.privy.io&sz=128"
     },
     {
       "name": "Procore",
@@ -11027,6 +11062,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=unanet.com&sz=128"
     },
     {
+      "name": "understand.tech",
+      "website": "https://understand.tech",
+      "trustCenter": "https://trust.understand.tech/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=understand.tech&sz=128"
+    },
+    {
       "name": "UnifyGTM",
       "website": "https://unifygtm.com",
       "trustCenter": "https://trust.unifygtm.com",
@@ -12025,8 +12067,8 @@
     }
   ],
   "meta": {
-    "total": 1330,
-    "generated": "2026-04-16T13:20:23.710Z",
+    "total": 1336,
+    "generated": "2026-04-19T06:04:18.567Z",
     "version": "1.0.0"
   }
 }
