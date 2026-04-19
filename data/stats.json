@@ -1,5 +1,5 @@
 {
-  "totalCompanies": 1369,
+  "totalCompanies": 1370,
   "platformCounts": [
     {
       "platform": "Vanta",
@@ -19,7 +19,7 @@
     },
     {
       "platform": "Bastion",
-      "count": 31
+      "count": 32
     },
     {
       "platform": "Self-hosted",
@@ -74,5 +74,5 @@
       "count": 1
     }
   ],
-  "generated": "2026-04-19T09:17:12.369Z"
+  "generated": "2026-04-19T09:19:24.934Z"
 }

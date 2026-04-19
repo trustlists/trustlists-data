@@ -11763,6 +11763,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://voicepanel.com&sz=128"
     },
     {
+      "name": "VoltaBack",
+      "website": "https://voltaback.com",
+      "trustCenter": "https://trust.volta-back.com/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=voltaback.com&sz=128"
+    },
+    {
       "name": "Vouch",
       "website": "http://vouch.us",
       "trustCenter": "https://trust.vouch.us",
@@ -12298,8 +12305,8 @@
     }
   ],
   "meta": {
-    "total": 1369,
-    "generated": "2026-04-19T09:17:12.310Z",
+    "total": 1370,
+    "generated": "2026-04-19T09:19:24.874Z",
     "version": "1.0.0"
   }
 }
