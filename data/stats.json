@@ -1,5 +1,5 @@
 {
-  "totalCompanies": 1339,
+  "totalCompanies": 1369,
   "platformCounts": [
     {
       "platform": "Vanta",
@@ -7,7 +7,7 @@
     },
     {
       "platform": "SafeBase",
-      "count": 423
+      "count": 424
     },
     {
       "platform": "Oneleet",
@@ -16,6 +16,10 @@
     {
       "platform": "Conveyor",
       "count": 52
+    },
+    {
+      "platform": "Bastion",
+      "count": 31
     },
     {
       "platform": "Self-hosted",
@@ -50,10 +54,6 @@
       "count": 3
     },
     {
-      "platform": "Bastion",
-      "count": 2
-    },
-    {
       "platform": "TrustArc",
       "count": 2
     },
@@ -74,5 +74,5 @@
       "count": 1
     }
   ],
-  "generated": "2026-04-19T08:11:33.718Z"
+  "generated": "2026-04-19T09:17:12.369Z"
 }

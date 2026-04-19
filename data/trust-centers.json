@@ -144,6 +144,13 @@
       ]
     },
     {
+      "name": "Actionable",
+      "website": "https://actionable.live",
+      "trustCenter": "https://trust.actionable.live/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=actionable.live&sz=128"
+    },
+    {
       "name": "Activepieces",
       "website": "https://www.activepieces.com",
       "trustCenter": "https://trust.activepieces.com",
@@ -442,6 +449,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=altvia.com&sz=128"
     },
     {
+      "name": "Amalia",
+      "website": "https://amalia.io",
+      "trustCenter": "https://trust.amalia.io/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=amalia.io&sz=128"
+    },
+    {
       "name": "Amazon Web Services",
       "website": "https://aws.amazon.com",
       "trustCenter": "https://aws.amazon.com/trust-center",
@@ -467,6 +481,13 @@
       "certifications": [
         "SOC 2 Type II"
       ]
+    },
+    {
+      "name": "Ameba",
+      "website": "https://ameba.ai",
+      "trustCenter": "https://trust.ameba.ai/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=ameba.ai&sz=128"
     },
     {
       "name": "Amplemarket",
@@ -537,6 +558,13 @@
       "trustCenter": "https://trust.anyroad.com/",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=anyroad.com&sz=128"
+    },
+    {
+      "name": "Anyshift",
+      "website": "https://anyshift.io",
+      "trustCenter": "https://trust.anyshift.io/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=anyshift.io&sz=128"
     },
     {
       "name": "ApiDog",
@@ -1198,6 +1226,13 @@
         "NIST",
         "TX-RAMP"
       ]
+    },
+    {
+      "name": "Bib batteries",
+      "website": "https://bib-batteries.com",
+      "trustCenter": "https://app.bastion.tech/trust-center/817cbb43-cedc-4118-a0a9-4ef1ba9bbc53",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bib-batteries.com&sz=128"
     },
     {
       "name": "BigCommerce",
@@ -2399,6 +2434,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=contraforce.com&sz=128"
     },
     {
+      "name": "Contrast",
+      "website": "https://getcontrast.io",
+      "trustCenter": "https://trust.getcontrast.io/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=getcontrast.io&sz=128"
+    },
+    {
       "name": "ControlUp",
       "website": "https://controlup.com",
       "trustCenter": "https://trustcenter.controlup.com",
@@ -2413,6 +2455,13 @@
         "ISO 27701",
         "GDPR"
       ]
+    },
+    {
+      "name": "Convelio",
+      "website": "https://convelio.com",
+      "trustCenter": "https://trust.convelio.com/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=convelio.com&sz=128"
     },
     {
       "name": "Conveo",
@@ -3020,6 +3069,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=deepwatch.com&sz=128"
     },
     {
+      "name": "Defacto",
+      "website": "https://getdefacto.com",
+      "trustCenter": "https://trust.getdefacto.com/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=getdefacto.com&sz=128"
+    },
+    {
       "name": "Degreed",
       "website": "degreed.com",
       "trustCenter": "https://trust.degreed.com",
@@ -3111,6 +3167,13 @@
       "trustCenter": "https://trust.deque.com/",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=deque.com&sz=128"
+    },
+    {
+      "name": "Deskare",
+      "website": "https://deskare.io",
+      "trustCenter": "https://trust.deskare.io/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=deskare.io&sz=128"
     },
     {
       "name": "DevCycle",
@@ -3957,6 +4020,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.findly.ai/join&sz=128"
     },
     {
+      "name": "FINGREEN AI",
+      "website": "https://fingreen.ai",
+      "trustCenter": "https://trust.fingreen.ai/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=fingreen.ai&sz=128"
+    },
+    {
       "name": "Fini",
       "website": "https://www.usefini.com",
       "trustCenter": "https://security.usefini.com",
@@ -4124,6 +4194,13 @@
         "CSA STAR",
         "TX-RAMP"
       ]
+    },
+    {
+      "name": "FlexAI",
+      "website": "https://flex.ai",
+      "trustCenter": "https://security.flex.ai/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=flex.ai&sz=128"
     },
     {
       "name": "Float Health",
@@ -4702,6 +4779,13 @@
       ]
     },
     {
+      "name": "Groov",
+      "website": "https://wearegroov.io",
+      "trustCenter": "https://trust.wearegroov.io/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=wearegroov.io&sz=128"
+    },
+    {
       "name": "Groq",
       "website": "https://groq.com",
       "trustCenter": "https://trust.groq.com",
@@ -5222,6 +5306,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=hyperbound.ai&sz=128"
     },
     {
+      "name": "Hyperline",
+      "website": "https://hyperline.co",
+      "trustCenter": "https://trust.hyperline.co/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=hyperline.co&sz=128"
+    },
+    {
       "name": "Hypotenuse AI",
       "website": "https://hypotenuse.ai/",
       "trustCenter": "https://trust.hypotenuse.ai",
@@ -5521,6 +5612,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.invopop.com/&sz=128"
     },
     {
+      "name": "iPostal1",
+      "website": "https://ipostal1.com",
+      "trustCenter": "https://app.bastion.tech/trust-center/5a21cc4e-a6ea-4f9f-8db6-3d336442cb0a",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=ipostal1.com&sz=128"
+    },
+    {
       "name": "Ironclad",
       "website": "http://ironcladapp.com",
       "trustCenter": "https://security.ironcladapp.com",
@@ -5719,6 +5817,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=kaizenautomation.com&sz=128"
     },
     {
+      "name": "Kalent",
+      "website": "https://kalent.ai",
+      "trustCenter": "https://trust.kalent.ai/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=kalent.ai&sz=128"
+    },
+    {
       "name": "Kameleoon",
       "website": "https://kameleoon.com",
       "trustCenter": "https://security.kameleoon.com",
@@ -5799,6 +5904,13 @@
         "GDPR",
         "NIST"
       ]
+    },
+    {
+      "name": "Kiflo",
+      "website": "https://kiflo.com",
+      "trustCenter": "https://trust.kiflo.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=kiflo.com&sz=128"
     },
     {
       "name": "Kilsar",
@@ -5947,11 +6059,25 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=kontent.ai&sz=128"
     },
     {
+      "name": "Korint Insurtech",
+      "website": "https://korint.io",
+      "trustCenter": "https://trust.korint.io/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=korint.io&sz=128"
+    },
+    {
       "name": "korzo",
       "website": "korzo.com",
       "trustCenter": "https://trust.korzo.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=korzo.com&sz=128"
+    },
+    {
+      "name": "Kraaft",
+      "website": "https://kraaft.co",
+      "trustCenter": "https://trust.kraaft.co/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=kraaft.co&sz=128"
     },
     {
       "name": "Kustomer",
@@ -6227,6 +6353,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=legora.com&sz=128"
     },
     {
+      "name": "lemlist",
+      "website": "https://lemlist.com",
+      "trustCenter": "https://trust.lemlist.com/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=lemlist.com&sz=128"
+    },
+    {
       "name": "Lenk",
       "website": "https://getlenk.com/",
       "trustCenter": "https://trust.getlenk.com",
@@ -6346,6 +6479,13 @@
       "trustCenter": "https://trust.linkerfinance.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=linkerfinance.com&sz=128"
+    },
+    {
+      "name": "Linkurious",
+      "website": "https://linkurious.com",
+      "trustCenter": "https://trust.linkurious.com/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=linkurious.com&sz=128"
     },
     {
       "name": "Litera",
@@ -6789,6 +6929,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=megaport.com&sz=128"
     },
     {
+      "name": "Meilisearch",
+      "website": "https://meilisearch.com",
+      "trustCenter": "https://trust.meilisearch.com/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=meilisearch.com&sz=128"
+    },
+    {
       "name": "Meltwater",
       "website": "https://meltwater.com",
       "trustCenter": "https://trust.meltwater.com",
@@ -7056,6 +7203,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=http://modernloop.io&sz=128"
     },
     {
+      "name": "Modjo",
+      "website": "https://modjo.ai",
+      "trustCenter": "https://trust.modjo.ai/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=modjo.ai&sz=128"
+    },
+    {
       "name": "Modolabs",
       "website": "https://modolabs.com",
       "trustCenter": "https://trust.modolabs.com/",
@@ -7234,6 +7388,13 @@
         "HIPAA",
         "GDPR"
       ]
+    },
+    {
+      "name": "Naboo",
+      "website": "https://naboo.app",
+      "trustCenter": "https://trust.naboo.app/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=naboo.app&sz=128"
     },
     {
       "name": "Nango",
@@ -7603,6 +7764,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=omeda.com&sz=128"
     },
     {
+      "name": "Omi",
+      "website": "https://omi.so",
+      "trustCenter": "https://security.omi.so/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=omi.so&sz=128"
+    },
+    {
       "name": "ON24",
       "website": "https://www.on24.com/",
       "trustCenter": "https://trust.on24.com/",
@@ -7772,6 +7940,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=orca.security&sz=128"
     },
     {
+      "name": "Ordalie",
+      "website": "https://ordalie.com",
+      "trustCenter": "https://trust.ordalie.com/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=ordalie.com&sz=128"
+    },
+    {
       "name": "Origami",
       "website": "https://www.origamiagents.com",
       "trustCenter": "https://trust.origamiagents.com",
@@ -7801,6 +7976,13 @@
       "certifications": [
         "SOC 2 Type I"
       ]
+    },
+    {
+      "name": "Outmind",
+      "website": "https://outmind.fr",
+      "trustCenter": "https://trust.outmind.fr/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=outmind.fr&sz=128"
     },
     {
       "name": "OutRival",
@@ -8012,6 +8194,13 @@
       "trustCenter": "https://trust.peerdb.io",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://peerdb.io/&sz=128"
+    },
+    {
+      "name": "Pelico",
+      "website": "https://pelico.ai",
+      "trustCenter": "https://trust.pelico.ai/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=pelico.ai&sz=128"
     },
     {
       "name": "Penciled",
@@ -8302,6 +8491,13 @@
       "trustCenter": "https://trust.prelim.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://prelim.com/&sz=128"
+    },
+    {
+      "name": "Prelude",
+      "website": "https://prelude.so",
+      "trustCenter": "https://trust.prelude.so/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=prelude.so&sz=128"
     },
     {
       "name": "PrimaryBid",
@@ -10003,6 +10199,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=softwareag.com&sz=128"
     },
     {
+      "name": "SolideFinance",
+      "website": "https://solide.fi",
+      "trustCenter": "https://trust.solide.fi/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=solide.fi&sz=128"
+    },
+    {
       "name": "Solidroad",
       "website": "https://solidroad.com",
       "trustCenter": "https://security.solidroad.com",
@@ -11511,6 +11714,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=viralnation.com&sz=128"
     },
     {
+      "name": "VirtualBrain",
+      "website": "https://getvirtualbrain.com",
+      "trustCenter": "https://trust.getvirtualbrain.com/",
+      "platform": "Bastion",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=getvirtualbrain.com&sz=128"
+    },
+    {
       "name": "Virtuous",
       "website": "https://virtuous.org",
       "trustCenter": "https://trust.virtuous.org",
@@ -12088,8 +12298,8 @@
     }
   ],
   "meta": {
-    "total": 1339,
-    "generated": "2026-04-19T08:11:33.653Z",
+    "total": 1369,
+    "generated": "2026-04-19T09:17:12.310Z",
     "version": "1.0.0"
   }
 }
