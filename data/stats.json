@@ -1,13 +1,13 @@
 {
-  "totalCompanies": 1370,
+  "totalCompanies": 1449,
   "platformCounts": [
     {
       "platform": "Vanta",
-      "count": 616
+      "count": 638
     },
     {
       "platform": "SafeBase",
-      "count": 424
+      "count": 461
     },
     {
       "platform": "Oneleet",
@@ -15,7 +15,7 @@
     },
     {
       "platform": "Conveyor",
-      "count": 52
+      "count": 58
     },
     {
       "platform": "Bastion",
@@ -27,7 +27,7 @@
     },
     {
       "platform": "Secureframe",
-      "count": 25
+      "count": 28
     },
     {
       "platform": "Delve",
@@ -35,15 +35,15 @@
     },
     {
       "platform": "SecurityPal",
-      "count": 9
+      "count": 14
     },
     {
       "platform": "HyperComply",
-      "count": 6
+      "count": 9
     },
     {
       "platform": "Whistic",
-      "count": 6
+      "count": 9
     },
     {
       "platform": "Comp AI",
@@ -74,5 +74,5 @@
       "count": 1
     }
   ],
-  "generated": "2026-04-19T09:19:24.934Z"
+  "generated": "2026-04-20T20:44:03.713Z"
 }

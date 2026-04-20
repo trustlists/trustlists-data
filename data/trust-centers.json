@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "name": "1000minds",
+      "website": "https://1000minds.com/",
+      "trustCenter": "https://trust.1000minds.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=1000minds.com&sz=128"
+    },
+    {
       "name": "11x",
       "website": "https://www.11x.ai/",
       "trustCenter": "https://trust.delve.co/11x",
@@ -46,6 +53,13 @@
         "CSA STAR",
         "NIST"
       ]
+    },
+    {
+      "name": "8x8",
+      "website": "https://8x8.com/",
+      "trustCenter": "https://trust.8x8.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=8x8.com&sz=128"
     },
     {
       "name": "99minutos",
@@ -320,11 +334,25 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.akutehealth.com&sz=128"
     },
     {
+      "name": "Alayacare",
+      "website": "https://alayacare.com/",
+      "trustCenter": "https://trustcenter.alayacare.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=alayacare.com&sz=128"
+    },
+    {
       "name": "Albedo",
       "website": "https://albedo.com",
       "trustCenter": "https://trust.albedo.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=albedo.com&sz=128"
+    },
+    {
+      "name": "Albert Invent",
+      "website": "https://albertinvent.com/",
+      "trustCenter": "https://trust.albertinvent.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=albertinvent.com&sz=128"
     },
     {
       "name": "Aledade",
@@ -533,6 +561,13 @@
       "trustCenter": "https://trust.anaconda.com/",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=anaconda.com&sz=128"
+    },
+    {
+      "name": "Anaplan",
+      "website": "https://anaplan.com/",
+      "trustCenter": "https://trust.anaplan.com/",
+      "platform": "SecurityPal",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=anaplan.com&sz=128"
     },
     {
       "name": "Anchor",
@@ -905,6 +940,13 @@
       ]
     },
     {
+      "name": "Athennian",
+      "website": "https://athennian.com/",
+      "trustCenter": "https://trust.athennian.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=athennian.com&sz=128"
+    },
+    {
       "name": "Atla",
       "website": "https://www.atla-ai.com/",
       "trustCenter": "https://trust.atla-ai.com",
@@ -1022,6 +1064,20 @@
       ]
     },
     {
+      "name": "AutogenAI",
+      "website": "https://autogenai.com/",
+      "trustCenter": "https://trust.autogenai.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=autogenai.com&sz=128"
+    },
+    {
+      "name": "Automox",
+      "website": "https://automox.com/",
+      "trustCenter": "https://security.automox.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=automox.com&sz=128"
+    },
+    {
       "name": "Autotab",
       "website": "https://autotab.com",
       "trustCenter": "https://trust.autotab.com",
@@ -1134,6 +1190,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=awarehealth.io&sz=128"
     },
     {
+      "name": "Axiad IDS",
+      "website": "https://axiadids.com/",
+      "trustCenter": "https://trustcenter.axiad.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=axiadids.com&sz=128"
+    },
+    {
       "name": "Axle",
       "website": "https://axle.insure",
       "trustCenter": "https://trust.axle.insure",
@@ -1186,6 +1249,13 @@
       }
     },
     {
+      "name": "Axonius",
+      "website": "https://axonius.com/",
+      "trustCenter": "https://trust.axonius.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=axonius.com&sz=128"
+    },
+    {
       "name": "Azul",
       "website": "https://azul.com",
       "trustCenter": "https://trust.azul.com/",
@@ -1193,11 +1263,25 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=azul.com&sz=128"
     },
     {
+      "name": "b.well Connected Health",
+      "website": "https://bwell.com/",
+      "trustCenter": "https://trust.bwell.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bwell.com&sz=128"
+    },
+    {
       "name": "backstitch",
       "website": "backstitch.io",
       "trustCenter": "https://trust.backstitch.io",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=backstitch.io&sz=128"
+    },
+    {
+      "name": "Bamboo Health",
+      "website": "https://bamboohealth.com/",
+      "trustCenter": "https://trust.bamboohealth.com/",
+      "platform": "Conveyor",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bamboohealth.com&sz=128"
     },
     {
       "name": "BambooHR",
@@ -1223,6 +1307,13 @@
       "trustCenter": "https://trust.usebead.ai",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=usebead.ai&sz=128"
+    },
+    {
+      "name": "Beamery",
+      "website": "https://beamery.com/",
+      "trustCenter": "https://trust.beamery.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=beamery.com&sz=128"
     },
     {
       "name": "Belvo",
@@ -1261,11 +1352,25 @@
       ]
     },
     {
+      "name": "Beonic",
+      "website": "https://beonic.com/",
+      "trustCenter": "https://trust.beonic.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=beonic.com&sz=128"
+    },
+    {
       "name": "BestDefense.io",
       "website": "https://bestdefense.io",
       "trustCenter": "https://trust.bestdefense.io",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=bestdefense.io&sz=128"
+    },
+    {
+      "name": "BetterCloud",
+      "website": "https://bettercloud.com/",
+      "trustCenter": "https://trust.bettercloud.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bettercloud.com&sz=128"
     },
     {
       "name": "Betterment",
@@ -1356,6 +1461,13 @@
       }
     },
     {
+      "name": "Bigtincan",
+      "website": "https://bigtincan.com/",
+      "trustCenter": "https://trust.bigtincan.com/",
+      "platform": "Secureframe",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bigtincan.com&sz=128"
+    },
+    {
       "name": "BillionToOne",
       "website": "https://www.billiontoone.com",
       "trustCenter": "https://trust.billiontoone.com",
@@ -1409,6 +1521,13 @@
       }
     },
     {
+      "name": "Blackbaud",
+      "website": "https://blackbaud.com/",
+      "trustCenter": "https://trust.blackbaud.com/",
+      "platform": "Conveyor",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=blackbaud.com&sz=128"
+    },
+    {
       "name": "Bland",
       "website": "https://www.bland.ai/",
       "trustCenter": "https://trust.delve.co/blandai",
@@ -1423,6 +1542,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://withblast.com&sz=128"
     },
     {
+      "name": "BLINK CHARGING",
+      "website": "https://blinkcharging.com/",
+      "trustCenter": "https://trust.blinkcharging.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=blinkcharging.com&sz=128"
+    },
+    {
       "name": "Blink Ops",
       "website": "https://www.blinkops.com/",
       "trustCenter": "https://trust.blinkops.com/",
@@ -1435,6 +1561,13 @@
       "trustCenter": "https://trust.blockdaemon.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=blockdaemon.com&sz=128"
+    },
+    {
+      "name": "Bloomerang",
+      "website": "https://bloomerang.com/",
+      "trustCenter": "https://trust.bloomerang.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bloomerang.com&sz=128"
     },
     {
       "name": "Bloomreach",
@@ -1540,6 +1673,13 @@
       ]
     },
     {
+      "name": "Breakout Learning",
+      "website": "https://breakoutlearning.com/",
+      "trustCenter": "https://trust.breakoutlearning.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=breakoutlearning.com&sz=128"
+    },
+    {
       "name": "Brex",
       "website": "https://www.brex.com/",
       "trustCenter": "https://trust-portal.brex.com/",
@@ -1554,11 +1694,25 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=getbridgecare.com&sz=128"
     },
     {
+      "name": "Brightcove",
+      "website": "https://brightcove.com/",
+      "trustCenter": "https://trust.brightcove.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=brightcove.com&sz=128"
+    },
+    {
       "name": "Brighthire",
       "website": "https://www.brighthire.com/",
       "trustCenter": "https://trust.brighthire.com/",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=brighthire.com&sz=128"
+    },
+    {
+      "name": "Brightspot",
+      "website": "https://brightspot.com/",
+      "trustCenter": "https://trustcenter.brightspot.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=brightspot.com&sz=128"
     },
     {
       "name": "BrioHR",
@@ -1682,6 +1836,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://at.cafe&sz=128"
     },
     {
+      "name": "Calastone",
+      "website": "https://calastone.com/",
+      "trustCenter": "https://trustcenter.calastone.com/",
+      "platform": "Whistic",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=calastone.com&sz=128"
+    },
+    {
       "name": "Calendly",
       "website": "https://www.calendly.com/",
       "trustCenter": "https://public-profile.whistic.com/761120cf-454b-4c02-9483-f079882608a0",
@@ -1729,6 +1890,13 @@
         "listedSince": "2024-11-11",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/calm"
       }
+    },
+    {
+      "name": "Camunda",
+      "website": "https://camunda.com/",
+      "trustCenter": "https://trust.camunda.com/",
+      "platform": "SecurityPal",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=camunda.com&sz=128"
     },
     {
       "name": "Canary Technologies",
@@ -2015,6 +2183,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=ceros.com&sz=128"
     },
     {
+      "name": "Certinia",
+      "website": "https://certinia.com/",
+      "trustCenter": "https://trust.certinia.com/",
+      "platform": "Whistic",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=certinia.com&sz=128"
+    },
+    {
       "name": "Chainalysis",
       "website": "chainalysis.com",
       "trustCenter": "https://trust.chainalysis.com",
@@ -2027,6 +2202,13 @@
       "trustCenter": "https://trust.chargeflow.io/",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=chargeflow.io&sz=128"
+    },
+    {
+      "name": "ChargePoint",
+      "website": "https://chargepoint.com/",
+      "trustCenter": "https://trust.chargepoint.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=chargepoint.com&sz=128"
     },
     {
       "name": "Chariot",
@@ -2165,6 +2347,13 @@
       "trustCenter": "https://trust.ciro.io",
       "platform": "Oneleet",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.ciro.io/&sz=128"
+    },
+    {
+      "name": "CirrusMD",
+      "website": "https://cirrusmd.com/",
+      "trustCenter": "https://trust.cirrusmd.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cirrusmd.com&sz=128"
     },
     {
       "name": "ClaimSorted",
@@ -2306,11 +2495,25 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=close.com&sz=128"
     },
     {
+      "name": "CloudBees",
+      "website": "https://cloudbees.com/",
+      "trustCenter": "https://trust.cloudbees.com/",
+      "platform": "Conveyor",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cloudbees.com&sz=128"
+    },
+    {
       "name": "CloudCruise",
       "website": "https://cloudcruise.com",
       "trustCenter": "https://trust.cloudcruise.com",
       "platform": "Oneleet",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://cloudcruise.com&sz=128"
+    },
+    {
+      "name": "Cloudera Government Solutions",
+      "website": "https://cloudera.com/",
+      "trustCenter": "https://trust.cloudera.com/",
+      "platform": "Conveyor",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cloudera.com&sz=128"
     },
     {
       "name": "Cloudglue",
@@ -2393,6 +2596,13 @@
       "trustCenter": "https://trust.codspeed.io",
       "platform": "Oneleet",
       "iconUrl": "https://www.google.com/s2/favicons?domain=codspeed.io&sz=128"
+    },
+    {
+      "name": "Cognigy",
+      "website": "https://cognigy.com/",
+      "trustCenter": "https://trust.cognigy.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cognigy.com&sz=128"
     },
     {
       "name": "Cognite",
@@ -2516,6 +2726,13 @@
       ]
     },
     {
+      "name": "Commvault System",
+      "website": "https://commvault.com/",
+      "trustCenter": "https://trust.commvault.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=commvault.com&sz=128"
+    },
+    {
       "name": "Comp AI",
       "website": "https://trycomp.ai",
       "trustCenter": "https://security.trycomp.ai",
@@ -2544,6 +2761,13 @@
       "trustCenter": "https://trust.complif.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://complif.com&sz=128"
+    },
+    {
+      "name": "ConCntric",
+      "website": "https://concntric.com/",
+      "trustCenter": "https://trustcenter.concntric.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=concntric.com&sz=128"
     },
     {
       "name": "Concourse",
@@ -2724,6 +2948,13 @@
       "trustCenter": "https://trust.corelayer.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=corelayer.com&sz=128"
+    },
+    {
+      "name": "Cority Software",
+      "website": "https://cority.com/",
+      "trustCenter": "https://trust.cority.com/",
+      "platform": "HyperComply",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cority.com&sz=128"
     },
     {
       "name": "Cornerstone",
@@ -2968,6 +3199,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=cursor.com&sz=128"
     },
     {
+      "name": "Cvent",
+      "website": "https://cvent.com/",
+      "trustCenter": "https://trust.cvent.com/",
+      "platform": "Conveyor",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cvent.com&sz=128"
+    },
+    {
       "name": "Cyberark Workforce Identity",
       "website": "https://cyberark.com",
       "trustCenter": "https://trust.cyberark.com",
@@ -2988,6 +3226,13 @@
         "CSA STAR",
         "NIST"
       ]
+    },
+    {
+      "name": "CyberFOX",
+      "website": "https://cyberfox.com/",
+      "trustCenter": "https://compliance.cyberfox.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cyberfox.com&sz=128"
     },
     {
       "name": "CyberHaven",
@@ -3081,6 +3326,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dailybot.com/&sz=128"
     },
     {
+      "name": "Daon",
+      "website": "https://daon.com/",
+      "trustCenter": "https://trust.daon.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=daon.com&sz=128"
+    },
+    {
       "name": "Dash Hudson",
       "website": "https://dashsocial.com",
       "trustCenter": "https://trust.dashsocial.com",
@@ -3115,6 +3367,20 @@
       "trustCenter": "https://security.dashworks.ai",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=dashworks.ai&sz=128"
+    },
+    {
+      "name": "DataBank Holdings",
+      "website": "https://databank.com/",
+      "trustCenter": "https://trust.databank.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=databank.com&sz=128"
+    },
+    {
+      "name": "DataBank IMX",
+      "website": "https://databankimx.com/",
+      "trustCenter": "https://trust.databankimx.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=databankimx.com&sz=128"
     },
     {
       "name": "Databook",
@@ -3199,6 +3465,13 @@
       ]
     },
     {
+      "name": "Datamaran",
+      "website": "https://datamaran.com/",
+      "trustCenter": "https://trust.datamaran.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=datamaran.com&sz=128"
+    },
+    {
       "name": "Datasaur",
       "website": "https://datasaur.ai",
       "trustCenter": "https://trust.datasaur.ai",
@@ -3240,6 +3513,13 @@
       "trustCenter": "https://trust.dealer-fx.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=dealer-fx.com&sz=128"
+    },
+    {
+      "name": "DebtBook",
+      "website": "https://debtbook.com/",
+      "trustCenter": "https://trust.debtbook.com/",
+      "platform": "SecurityPal",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=debtbook.com&sz=128"
     },
     {
       "name": "Decipher AI",
@@ -3353,6 +3633,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=delivr.ai&sz=128"
     },
     {
+      "name": "deltaconX AG",
+      "website": "https://deltaconx.com/",
+      "trustCenter": "https://trust.deltaconx.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=deltaconx.com&sz=128"
+    },
+    {
       "name": "Deltek CostPoint",
       "website": "https://deltek.com",
       "trustCenter": "https://trust.deltek.com",
@@ -3420,6 +3707,20 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=deque.com&sz=128"
     },
     {
+      "name": "Descope",
+      "website": "https://descope.com/",
+      "trustCenter": "https://trust.descope.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=descope.com&sz=128"
+    },
+    {
+      "name": "DESelect",
+      "website": "https://deselect.com/",
+      "trustCenter": "https://trust.deselect.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=deselect.com&sz=128"
+    },
+    {
       "name": "Deskare",
       "website": "https://deskare.io",
       "trustCenter": "https://trust.deskare.io/",
@@ -3481,6 +3782,13 @@
         "listedSince": "2019-09-11",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/dialpad-inc"
       }
+    },
+    {
+      "name": "DIGI CORP",
+      "website": "https://digi.com/",
+      "trustCenter": "https://trust.digi.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=digi.com&sz=128"
     },
     {
       "name": "DigitalGenius",
@@ -3745,11 +4053,25 @@
       }
     },
     {
+      "name": "DTEX Systems",
+      "website": "https://dtex.ai/",
+      "trustCenter": "https://trust.dtex.ai/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=dtex.ai&sz=128"
+    },
+    {
       "name": "Duffel",
       "website": "https://duffel.com/",
       "trustCenter": "https://trust.duffel.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://duffel.com/&sz=128"
+    },
+    {
+      "name": "Duocircle",
+      "website": "https://duocircle.com/",
+      "trustCenter": "https://trust.duocircle.com/",
+      "platform": "Secureframe",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=duocircle.com&sz=128"
     },
     {
       "name": "Dutchie",
@@ -3806,6 +4128,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=easol.com&sz=128"
     },
     {
+      "name": "Easygenerator",
+      "website": "https://easygenerator.com/",
+      "trustCenter": "https://trust.easygenerator.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=easygenerator.com&sz=128"
+    },
+    {
       "name": "EasyPost",
       "website": "http://easypost.com",
       "trustCenter": "https://trust.easypost.com",
@@ -3854,6 +4183,13 @@
       "trustCenter": "https://trust.withedge.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://withedge.com&sz=128"
+    },
+    {
+      "name": "Edge Delta",
+      "website": "https://edgedelta.com/",
+      "trustCenter": "https://trust.edgedelta.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=edgedelta.com&sz=128"
     },
     {
       "name": "Edgedive",
@@ -3922,6 +4258,20 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128"
     },
     {
+      "name": "Ellucian",
+      "website": "https://ellucian.com/",
+      "trustCenter": "https://trust.ellucian.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=ellucian.com&sz=128"
+    },
+    {
+      "name": "Elsevier",
+      "website": "https://elsevier.com/",
+      "trustCenter": "https://trust.elsevier.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=elsevier.com&sz=128"
+    },
+    {
       "name": "Embrace",
       "website": "https://embrace.io",
       "trustCenter": "https://trust.embrace.io",
@@ -3960,6 +4310,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=energage.com&sz=128"
     },
     {
+      "name": "EnergyCAP LLC.",
+      "website": "https://energycap.com/",
+      "trustCenter": "https://trust.energycap.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=energycap.com&sz=128"
+    },
+    {
       "name": "Entropy",
       "website": "https://www.withentropy.ai/",
       "trustCenter": "https://trust.withentropy.ai",
@@ -3995,6 +4352,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.epsilon3.io/&sz=128"
     },
     {
+      "name": "Eptura",
+      "website": "https://eptura.com/",
+      "trustCenter": "https://security.eptura.com/",
+      "platform": "SecurityPal",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=eptura.com&sz=128"
+    },
+    {
       "name": "EQS Group EQS",
       "website": "https://www.eqs.com/",
       "trustCenter": "https://trust.eqs.com/",
@@ -4007,6 +4371,13 @@
       "trustCenter": "https://security.eqtble.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=eqtble.com&sz=128"
+    },
+    {
+      "name": "Equiti Health",
+      "website": "https://equitihealth.com/",
+      "trustCenter": "https://trust.equitihealth.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=equitihealth.com&sz=128"
     },
     {
       "name": "Ermetic",
@@ -4096,6 +4467,20 @@
       ]
     },
     {
+      "name": "Evervault",
+      "website": "https://evervault.com/",
+      "trustCenter": "https://trust.evervault.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=evervault.com&sz=128"
+    },
+    {
+      "name": "EveryoneSocial",
+      "website": "https://everyonesocial.com/",
+      "trustCenter": "https://trust.everyonesocial.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=everyonesocial.com&sz=128"
+    },
+    {
       "name": "Exa",
       "website": "https://exa.ai",
       "trustCenter": "https://trust.exa.ai",
@@ -4158,6 +4543,20 @@
       ]
     },
     {
+      "name": "Expedient",
+      "website": "https://expedient.com/",
+      "trustCenter": "https://trust.expedient.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=expedient.com&sz=128"
+    },
+    {
+      "name": "Expel",
+      "website": "https://expel.com/",
+      "trustCenter": "https://security.expel.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=expel.com&sz=128"
+    },
+    {
       "name": "Expensify",
       "website": "https://expensify.com",
       "trustCenter": "https://trust.expensify.com",
@@ -4203,6 +4602,20 @@
       "trustCenter": "https://trustcenter.exterro.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=exterro.com&sz=128"
+    },
+    {
+      "name": "ExtraHop",
+      "website": "https://extrahop.com/",
+      "trustCenter": "https://trust.extrahop.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=extrahop.com&sz=128"
+    },
+    {
+      "name": "Extreme Networks",
+      "website": "https://extremenetworks.com/",
+      "trustCenter": "https://trust.extremenetworks.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=extremenetworks.com&sz=128"
     },
     {
       "name": "Ezra AI Labs",
@@ -4321,6 +4734,13 @@
       "trustCenter": "https://trust.findly.ai/join",
       "platform": "Oneleet",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.findly.ai/join&sz=128"
+    },
+    {
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com/",
+      "trustCenter": "https://trust.fingerprint.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=fingerprint.com&sz=128"
     },
     {
       "name": "FINGREEN AI",
@@ -4587,6 +5007,13 @@
       "trustCenter": "https://trust.formance.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://formance.com&sz=128"
+    },
+    {
+      "name": "FormAssembly",
+      "website": "https://formassembly.com/",
+      "trustCenter": "https://security.formassembly.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=formassembly.com&sz=128"
     },
     {
       "name": "Fountain",
@@ -5161,6 +5588,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://gusto.com&sz=128"
     },
     {
+      "name": "HackerOne",
+      "website": "https://hackerone.com/",
+      "trustCenter": "https://trust.hacker.one/",
+      "platform": "SecurityPal",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=128"
+    },
+    {
       "name": "HackMD",
       "website": "hackmd.io",
       "trustCenter": "https://trust.hackmd.io",
@@ -5473,6 +5907,13 @@
       ]
     },
     {
+      "name": "HireVue",
+      "website": "https://hirevue.com/",
+      "trustCenter": "https://trust.hirevue.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=hirevue.com&sz=128"
+    },
+    {
       "name": "Hive",
       "website": "http://www.hive.co",
       "trustCenter": "https://trust.hive.co",
@@ -5723,6 +6164,13 @@
       "trustCenter": "https://trust.incident.io",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=incident.io&sz=128"
+    },
+    {
+      "name": "Incode Technologies",
+      "website": "https://incode.com/",
+      "trustCenter": "https://trust.incode.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=incode.com&sz=128"
     },
     {
       "name": "Index",
@@ -6178,6 +6626,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=getkard.com&sz=128"
     },
     {
+      "name": "Kaseware",
+      "website": "https://kaseware.com/",
+      "trustCenter": "https://trust.kaseware.com/",
+      "platform": "HyperComply",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=kaseware.com&sz=128"
+    },
+    {
       "name": "Kastle",
       "website": "https://kastle.ai/",
       "trustCenter": "https://trust.kastle.ai",
@@ -6186,10 +6641,10 @@
     },
     {
       "name": "Keeper",
-      "website": "https://www.keeper.app",
-      "trustCenter": "https://trust.keeper.app",
+      "website": "https://www.keepersecurity.com/",
+      "trustCenter": "https://trust.keeper.io/",
       "platform": "Vanta",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.keeper.app&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=128"
     },
     {
       "name": "Kestral",
@@ -7084,6 +7539,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=meetmarigold.com&sz=128"
     },
     {
+      "name": "Mark43",
+      "website": "https://mark43.com/",
+      "trustCenter": "https://trust.mark43.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=mark43.com&sz=128"
+    },
+    {
       "name": "Marlo",
       "website": "https://marlo.today",
       "trustCenter": "https://trust.marlo.today",
@@ -7755,6 +8217,13 @@
       "trustCenter": "https://trust.naviam.io/",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=naviam.io&sz=128"
+    },
+    {
+      "name": "NEOGOV",
+      "website": "https://neogov.com/",
+      "trustCenter": "https://trust.neogov.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=neogov.com&sz=128"
     },
     {
       "name": "Neon CRM",
@@ -8673,6 +9142,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=plansource.com&sz=128"
     },
     {
+      "name": "PlanStreet",
+      "website": "https://planstreet.com/",
+      "trustCenter": "https://trust.planstreet.com/",
+      "platform": "Secureframe",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=planstreet.com&sz=128"
+    },
+    {
       "name": "Planview",
       "website": "https://www.planview.com/",
       "trustCenter": "https://trust.planview.com/",
@@ -9010,6 +9486,13 @@
       "trustCenter": "https://trust.qad.com/",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=qad.com&sz=128"
+    },
+    {
+      "name": "Qgenda",
+      "website": "https://qgenda.com/",
+      "trustCenter": "https://trust.qgenda.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=qgenda.com&sz=128"
     },
     {
       "name": "Qlik Cloud",
@@ -9999,6 +10482,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=schemeflow.com&sz=128"
     },
     {
+      "name": "ScienceLogic",
+      "website": "https://sciencelogic.com/",
+      "trustCenter": "https://trust.sciencelogic.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=sciencelogic.com&sz=128"
+    },
+    {
       "name": "Scribd",
       "website": "http://scribd.com",
       "trustCenter": "https://trust.scribd.com",
@@ -10034,6 +10524,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://secoda.co&sz=128"
     },
     {
+      "name": "Second Front Systems",
+      "website": "https://secondfront.com/",
+      "trustCenter": "https://trust.secondfront.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=secondfront.com&sz=128"
+    },
+    {
       "name": "Secureframe",
       "website": "https://secureframe.com/",
       "trustCenter": "https://trust.secureframe.com/",
@@ -10061,6 +10558,13 @@
         "GDPR",
         "CCPA"
       ]
+    },
+    {
+      "name": "SecurityScorecard",
+      "website": "https://securityscorecard.com/",
+      "trustCenter": "https://trustcenter.securityscorecard.com/",
+      "platform": "HyperComply",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=128"
     },
     {
       "name": "sees.ai",
@@ -10124,6 +10628,13 @@
       "trustCenter": "https://security.sendoso.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=sendoso.com&sz=128"
+    },
+    {
+      "name": "SentinelOne",
+      "website": "https://sentinelone.com/",
+      "trustCenter": "https://trust.sentinelone.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=sentinelone.com&sz=128"
     },
     {
       "name": "Sentra",
@@ -10379,7 +10890,16 @@
         "ISO 27018",
         "ISO 27701",
         "ISO 42001"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ",
+          "ISO/IEC 42001"
+        ],
+        "listedSince": "2018-03-23",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/slack"
+      }
     },
     {
       "name": "Slash",
@@ -10858,6 +11378,13 @@
       ]
     },
     {
+      "name": "Sumo Logic",
+      "website": "https://sumologic.com/",
+      "trustCenter": "https://trust.sumologic.com/",
+      "platform": "Conveyor",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=sumologic.com&sz=128"
+    },
+    {
       "name": "Supabase",
       "website": "https://supabase.com",
       "trustCenter": "https://security.supabase.com",
@@ -11088,6 +11615,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=teamworks.com&sz=128"
     },
     {
+      "name": "TechnoMile",
+      "website": "https://technomile.com/",
+      "trustCenter": "https://trust.technomile.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=technomile.com&sz=128"
+    },
+    {
       "name": "Teleport",
       "website": "https://goteleport.com",
       "trustCenter": "https://trust.goteleport.com",
@@ -11107,6 +11641,13 @@
       "trustCenter": "https://trust.telnyx.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=telnyx.com&sz=128"
+    },
+    {
+      "name": "Telos",
+      "website": "https://telos.com/",
+      "trustCenter": "https://trust.telos.com/",
+      "platform": "Whistic",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=telos.com&sz=128"
     },
     {
       "name": "Tempo",
@@ -11778,6 +12319,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=valid8financial.com&sz=128"
     },
     {
+      "name": "Valimail",
+      "website": "https://valimail.com/",
+      "trustCenter": "https://security.valimail.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=valimail.com&sz=128"
+    },
+    {
       "name": "Vanta",
       "website": "https://vanta.com",
       "trustCenter": "https://trust.vanta.com",
@@ -11819,6 +12367,13 @@
         "NIST",
         "TX-RAMP"
       ]
+    },
+    {
+      "name": "Vasion",
+      "website": "https://vasion.com/",
+      "trustCenter": "https://trust.vasion.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=vasion.com&sz=128"
     },
     {
       "name": "Vector",
@@ -12130,6 +12685,13 @@
       "trustCenter": "https://trust.wagmo.io",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=wagmo.io&sz=128"
+    },
+    {
+      "name": "WalkMe",
+      "website": "https://walkme.com/",
+      "trustCenter": "https://trust.walkme.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=walkme.com&sz=128"
     },
     {
       "name": "Wallbit",
@@ -12616,8 +13178,8 @@
     }
   ],
   "meta": {
-    "total": 1370,
-    "generated": "2026-04-19T09:49:20.014Z",
+    "total": 1449,
+    "generated": "2026-04-20T20:43:56.085Z",
     "version": "1.0.0"
   }
 }
