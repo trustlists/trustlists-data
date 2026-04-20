@@ -302,7 +302,15 @@
       "website": "https://aisera.com",
       "trustCenter": "https://trust.aisera.com/",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=aisera.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=aisera.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2022-04-19",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/aisera-inc"
+      }
     },
     {
       "name": "Akute Health",
@@ -349,7 +357,15 @@
       "website": "http://www.algolia.com",
       "trustCenter": "https://trust.algolia.com",
       "platform": "Vanta",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=algolia.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=algolia.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2017-11-13",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/algolia-inc"
+      }
     },
     {
       "name": "Alguna",
@@ -383,7 +399,15 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=alloy.com&sz=128",
       "certifications": [
         "SOC 2 Type II"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2020-10-13",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/alloy-srl"
+      }
     },
     {
       "name": "Allstacks",
@@ -594,7 +618,15 @@
       "website": "https://appian.com",
       "trustCenter": "https://trustcenter.appian.com",
       "platform": "HyperComply",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=appian.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=appian.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2018-05-30",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/appian"
+      }
     },
     {
       "name": "AppOmni",
@@ -704,7 +736,15 @@
         "FedRAMP",
         "CSA STAR",
         "TX-RAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2021-03-08",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/armis-inc"
+      }
     },
     {
       "name": "Arpari",
@@ -777,7 +817,15 @@
         "CSA STAR",
         "NIST",
         "TX-RAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2022-08-13",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/asana-inc"
+      }
     },
     {
       "name": "Ashby",
@@ -808,7 +856,15 @@
       "website": "https://www.assetpanda.com/",
       "trustCenter": "https://trust.assetpanda.com/",
       "platform": "Vanta",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=assetpanda.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=assetpanda.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2024-04-26",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/asset-panda"
+      }
     },
     {
       "name": "Astor",
@@ -870,7 +926,15 @@
         "CCPA",
         "TX-RAMP",
         "StateRAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2018-03-20",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/atlassian"
+      }
     },
     {
       "name": "Atomic",
@@ -921,7 +985,15 @@
         "CCPA",
         "NIST",
         "TX-RAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2020-07-16",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/auditboard"
+      }
     },
     {
       "name": "authzed",
@@ -972,7 +1044,15 @@
         "CCPA",
         "TX-RAMP",
         "StateRAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2024-10-30",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/auvik"
+      }
     },
     {
       "name": "Avallon AI",
@@ -1093,7 +1173,17 @@
         "CSA STAR",
         "NIST",
         "TX-RAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 2,
+        "assessments": [
+          "CAIQ",
+          "Attestation",
+          "Certification"
+        ],
+        "listedSince": "2015-09-29",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/axon"
+      }
     },
     {
       "name": "Azul",
@@ -1255,7 +1345,15 @@
         "CSA STAR",
         "NIST",
         "TX-RAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2023-08-12",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/bigcommerce-inc"
+      }
     },
     {
       "name": "BillionToOne",
@@ -1273,7 +1371,15 @@
       "website": "https://binalyze.com",
       "trustCenter": "https://trust.binalyze.com",
       "platform": "Vanta",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=binalyze.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=binalyze.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2023-01-02",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/binalyze"
+      }
     },
     {
       "name": "BioRender",
@@ -1292,7 +1398,15 @@
       "website": "https://bitso.com",
       "trustCenter": "https://trust.bitso.com",
       "platform": "Vanta",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=bitso.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bitso.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2024-07-09",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/bitso"
+      }
     },
     {
       "name": "Bland",
@@ -1401,7 +1515,15 @@
         "ISO 27001",
         "PCI DSS",
         "CCPA"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2021-07-28",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/branchio"
+      }
     },
     {
       "name": "Branching Minds",
@@ -1464,7 +1586,15 @@
       "website": "https://www.bugcrowd.com/",
       "trustCenter": "https://trust.bugcrowd.com/",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2023-06-20",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/bugcrowd-inc"
+      }
     },
     {
       "name": "Bugsnag",
@@ -1479,7 +1609,15 @@
         "GDPR",
         "CCPA",
         "NIST"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2018-03-06",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/bugsnag-inc"
+      }
     },
     {
       "name": "Builder",
@@ -1553,7 +1691,15 @@
         "SOC 2 Type II",
         "SOC 3",
         "ISO 27001"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2022-08-19",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/calendly-llc"
+      }
     },
     {
       "name": "Calibermind",
@@ -1574,7 +1720,15 @@
       "website": "https://calm.com",
       "trustCenter": "https://trust.calm.com",
       "platform": "Vanta",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=calm.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=calm.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2024-11-11",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/calm"
+      }
     },
     {
       "name": "Canary Technologies",
@@ -1761,7 +1915,15 @@
         "NIST",
         "TX-RAMP",
         "StateRAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2017-08-08",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/cato-networks"
+      }
     },
     {
       "name": "Cayuse",
@@ -1800,7 +1962,15 @@
         "GDPR",
         "CSA STAR",
         "NIST"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2019-11-07",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/celonis"
+      }
     },
     {
       "name": "Centauri AI",
@@ -1979,7 +2149,15 @@
         "CPRA",
         "CSA STAR",
         "NIST"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2018-06-27",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/circleci"
+      }
     },
     {
       "name": "Ciro",
@@ -2268,7 +2446,15 @@
       "website": "https://www.color.com/",
       "trustCenter": "https://security.color.com/",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=color.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=color.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2021-09-20",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/color"
+      }
     },
     {
       "name": "Comeet",
@@ -2300,7 +2486,15 @@
       "website": "https://commercetools.com",
       "trustCenter": "https://trust.commercetools.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=commercetools.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=commercetools.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2025-12-11",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/commercetools-gmbh"
+      }
     },
     {
       "name": "Common Paper",
@@ -2400,7 +2594,15 @@
         "ISO 27701",
         "PCI DSS",
         "NIST"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2022-04-07",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/contentsquare"
+      }
     },
     {
       "name": "Contextual AI",
@@ -2674,7 +2876,16 @@
         "CSA STAR",
         "NIST",
         "TX-RAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 2,
+        "assessments": [
+          "CAIQ",
+          "Certification"
+        ],
+        "listedSince": "2017-03-01",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/crowdstrike-inc"
+      }
     },
     {
       "name": "CTGT",
@@ -2725,7 +2936,15 @@
         "CCPA",
         "CSA STAR",
         "NIST"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2024-11-22",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/culture-amp"
+      }
     },
     {
       "name": "Curiflow",
@@ -2801,7 +3020,15 @@
       "website": "https://www.cyera.io/",
       "trustCenter": "https://security.cyera.io/",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=cyera.io&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cyera.io&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2023-12-06",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/cyera-inc"
+      }
     },
     {
       "name": "Cyphr AI",
@@ -2942,7 +3169,15 @@
         "CCPA",
         "CSA STAR",
         "NIST"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2018-04-04",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/datadog"
+      }
     },
     {
       "name": "DataDome",
@@ -3066,7 +3301,15 @@
       "website": "https://www.deepwatch.com/",
       "trustCenter": "https://security.deepwatch.com/",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=deepwatch.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=deepwatch.com&sz=128",
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2022-11-18",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/deepwatch"
+      }
     },
     {
       "name": "Defacto",
@@ -3159,7 +3402,15 @@
         "SOC 2 Type II",
         "ISO 27001",
         "TX-RAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2021-11-10",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/deputy"
+      }
     },
     {
       "name": "Deque",
@@ -3221,7 +3472,15 @@
         "CPRA",
         "CSA STAR",
         "NIST"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2019-09-11",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/dialpad-inc"
+      }
     },
     {
       "name": "DigitalGenius",
@@ -3402,7 +3661,15 @@
         "CCPA",
         "CSA STAR",
         "NIST"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2021-08-24",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/drata"
+      }
     },
     {
       "name": "DrDroid",
@@ -3449,14 +3716,33 @@
         "CCPA",
         "CSA STAR",
         "SOX"
-      ]
+      ],
+      "csaStar": {
+        "level": 2,
+        "assessments": [
+          "CAIQ",
+          "Attestation",
+          "Certification"
+        ],
+        "listedSince": "2016-02-12",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/dropbox-inc"
+      }
     },
     {
       "name": "Druva, Inc.",
       "website": "https://www.druva.com/",
       "trustCenter": "https://security.druva.com/",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=druva.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=druva.com&sz=128",
+      "csaStar": {
+        "level": 2,
+        "assessments": [
+          "CAIQ",
+          "Certification"
+        ],
+        "listedSince": "2023-02-17",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/druva-inc"
+      }
     },
     {
       "name": "Duffel",
@@ -3843,7 +4129,15 @@
         "FedRAMP",
         "GDPR",
         "CCPA"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2020-07-16",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/exclaimer-ltd"
+      }
     },
     {
       "name": "Exiger",
@@ -3983,7 +4277,16 @@
         "ISO 27018",
         "ISO 27701",
         "FedRAMP"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "AI CAIQ",
+          "CAIQ"
+        ],
+        "listedSince": "2022-04-13",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/figma"
+      }
     },
     {
       "name": "Figures",
@@ -4164,7 +4467,15 @@
         "GDPR",
         "CCPA",
         "CPRA"
-      ]
+      ],
+      "csaStar": {
+        "level": 1,
+        "assessments": [
+          "CAIQ"
+        ],
+        "listedSince": "2023-10-12",
+        "registryUrl": "https://cloudsecurityalliance.org/star/registry/fivetran-inc"
+      }
     },
     {
       "name": "Flagright",
@@ -12306,7 +12617,7 @@
   ],
   "meta": {
     "total": 1370,
-    "generated": "2026-04-19T09:19:24.874Z",
+    "generated": "2026-04-19T09:49:20.014Z",
     "version": "1.0.0"
   }
 }
