@@ -13186,6 +13186,13 @@
       ]
     },
     {
+      "name": "ZoomInfo",
+      "website": "https://www.zoominfo.com/",
+      "trustCenter": "https://trust.zoominfo.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=zoominfo.com&sz=128"
+    },
+    {
       "name": "Zscaler",
       "website": "https://www.zscaler.com",
       "trustCenter": "https://compliance.zscaler.com",
@@ -13220,8 +13227,8 @@
     }
   ],
   "meta": {
-    "total": 1455,
-    "generated": "2026-04-21T05:20:12.272Z",
+    "total": 1456,
+    "generated": "2026-04-21T18:52:32.769Z",
     "version": "1.0.0"
   }
 }

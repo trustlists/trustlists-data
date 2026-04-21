@@ -1,9 +1,9 @@
 {
-  "totalCompanies": 1455,
+  "totalCompanies": 1456,
   "platformCounts": [
     {
       "platform": "Vanta",
-      "count": 642
+      "count": 643
     },
     {
       "platform": "SafeBase",
@@ -74,5 +74,5 @@
       "count": 1
     }
   ],
-  "generated": "2026-04-21T05:20:12.332Z"
+  "generated": "2026-04-21T18:52:32.875Z"
 }
