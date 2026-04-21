@@ -1,9 +1,9 @@
 {
-  "totalCompanies": 1449,
+  "totalCompanies": 1455,
   "platformCounts": [
     {
       "platform": "Vanta",
-      "count": 638
+      "count": 642
     },
     {
       "platform": "SafeBase",
@@ -23,7 +23,7 @@
     },
     {
       "platform": "Self-hosted",
-      "count": 31
+      "count": 32
     },
     {
       "platform": "Secureframe",
@@ -46,12 +46,12 @@
       "count": 9
     },
     {
-      "platform": "Comp AI",
+      "platform": "Sprinto",
       "count": 4
     },
     {
-      "platform": "Sprinto",
-      "count": 3
+      "platform": "Comp AI",
+      "count": 4
     },
     {
       "platform": "TrustArc",
@@ -74,5 +74,5 @@
       "count": 1
     }
   ],
-  "generated": "2026-04-20T20:44:03.713Z"
+  "generated": "2026-04-21T05:20:12.332Z"
 }

@@ -445,6 +445,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=allstacks.com&sz=128"
     },
     {
+      "name": "Alludium.ai",
+      "website": "https://Alludium.ai",
+      "trustCenter": "https://trust.alludium.ai/",
+      "platform": "Sprinto",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=alludium.ai&sz=128"
+    },
+    {
       "name": "Allus AI",
       "website": "https://allus.ai",
       "trustCenter": "https://trust.allus.ai",
@@ -1124,6 +1131,13 @@
       ]
     },
     {
+      "name": "avanleecare",
+      "website": "https://avanleecare.com",
+      "trustCenter": "https://trust.avanleecare.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=avanleecare.com&sz=128"
+    },
+    {
       "name": "Avenir AI",
       "website": "https://www.avenir.com.ai",
       "trustCenter": "https://trust.avenir.com.ai",
@@ -1402,6 +1416,13 @@
       ]
     },
     {
+      "name": "beye",
+      "website": "https://beye.ai",
+      "trustCenter": "https://trust.beye.ai/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=beye.ai&sz=128"
+    },
+    {
       "name": "BeyondTrust",
       "website": "https://www.beyondtrust.com/",
       "trustCenter": "https://trustportal.beyondtrust.com/",
@@ -1587,6 +1608,13 @@
         "GDPR",
         "CCPA"
       ]
+    },
+    {
+      "name": "bluetally.com",
+      "website": "https://bluetally.com",
+      "trustCenter": "https://trust.bluetally.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bluetally.com&sz=128"
     },
     {
       "name": "Bold Commerce",
@@ -2596,6 +2624,13 @@
       "trustCenter": "https://trust.codspeed.io",
       "platform": "Oneleet",
       "iconUrl": "https://www.google.com/s2/favicons?domain=codspeed.io&sz=128"
+    },
+    {
+      "name": "cofina.ai",
+      "website": "https://cofina.ai",
+      "trustCenter": "https://cofina.ai/security",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cofina.ai&sz=128"
     },
     {
       "name": "Cognigy",
@@ -9781,6 +9816,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=http://www.realitydefender.com&sz=128"
     },
     {
+      "name": "Rebolt",
+      "website": "https://rebolt.ai",
+      "trustCenter": "https://compliance.rebolt.ai/",
+      "platform": "Self-hosted",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=rebolt.ai&sz=128"
+    },
+    {
       "name": "Rebrandly",
       "website": "https://www.rebrandly.com/",
       "trustCenter": "https://trust.rebrandly.com/",
@@ -13178,8 +13220,8 @@
     }
   ],
   "meta": {
-    "total": 1449,
-    "generated": "2026-04-20T20:43:56.085Z",
+    "total": 1455,
+    "generated": "2026-04-21T05:20:12.272Z",
     "version": "1.0.0"
   }
 }
