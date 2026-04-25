@@ -8846,6 +8846,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=oxus-ai.com&sz=128"
     },
     {
+      "name": "oxygenforensics.com",
+      "website": "https://oxygenforensics.com",
+      "trustCenter": "https://trust.oxygenforensics.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=oxygenforensics.com&sz=128"
+    },
+    {
       "name": "Paddle",
       "website": "https://paddle.com",
       "trustCenter": "https://trust.paddle.com",
@@ -11901,6 +11908,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://trytoku.com/&sz=128"
     },
     {
+      "name": "toltiq",
+      "website": "https://toltiq.com",
+      "trustCenter": "https://trust.toltiq.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=toltiq.com&sz=128"
+    },
+    {
       "name": "Toma",
       "website": "http://www.toma.com/",
       "trustCenter": "https://trust.toma.com",
@@ -13227,8 +13241,8 @@
     }
   ],
   "meta": {
-    "total": 1456,
-    "generated": "2026-04-22T01:35:27.848Z",
+    "total": 1458,
+    "generated": "2026-04-25T00:40:51.790Z",
     "version": "1.0.0"
   }
 }
