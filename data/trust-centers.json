@@ -661,6 +661,13 @@
       "lastUpdated": "2026-05-01"
     },
     {
+      "name": "Ambral",
+      "website": "https://www.ambral.com/",
+      "trustCenter": "https://trust.ambral.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=ambral.com&sz=128"
+    },
+    {
       "name": "Ameba",
       "website": "https://ameba.ai",
       "trustCenter": "https://trust.ameba.ai/",
@@ -872,6 +879,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=aptean.com&sz=128"
     },
     {
+      "name": "Apten",
+      "website": "https://www.apten.ai/",
+      "trustCenter": "https://trust.apten.ai",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=apten.ai&sz=128"
+    },
+    {
       "name": "Aptible",
       "website": "https://www.aptible.com",
       "trustCenter": "https://trust.aptible.com",
@@ -909,6 +923,13 @@
       "trustCenter": "https://security.archbee.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=archbee.com&sz=128"
+    },
+    {
+      "name": "Archer",
+      "website": "https://archermoney.com/",
+      "trustCenter": "https://trust.archermoney.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=archermoney.com&sz=128"
     },
     {
       "name": "Archil",
@@ -1109,6 +1130,13 @@
       }
     },
     {
+      "name": "Aster",
+      "website": "https://www.asterlab.ai/",
+      "trustCenter": "https://trust.asterlab.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=asterlab.ai&sz=128"
+    },
+    {
       "name": "Astor",
       "website": "https://astor.app/",
       "trustCenter": "https://trust.astor.app",
@@ -1293,6 +1321,13 @@
         "TX-RAMP"
       ],
       "lastUpdated": "2026-05-01"
+    },
+    {
+      "name": "Automat",
+      "website": "https://www.runautomat.com/",
+      "trustCenter": "https://trust.runautomat.com",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=runautomat.com&sz=128"
     },
     {
       "name": "Automox",
@@ -2084,6 +2119,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://briohr.com/&sz=128"
     },
     {
+      "name": "Brite",
+      "website": "https://britebenefits.com/",
+      "trustCenter": "https://trust.britebenefits.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=britebenefits.com&sz=128"
+    },
+    {
       "name": "Broadridge",
       "website": "https://www.broadridge.com/",
       "trustCenter": "https://trust.broadridge.com/",
@@ -2408,6 +2450,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=joincarma.com&sz=128"
     },
     {
+      "name": "Carrot Fertility",
+      "website": "https://www.get-carrot.com/",
+      "trustCenter": "https://trust.get-carrot.com",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=get-carrot.com&sz=128"
+    },
+    {
       "name": "Carta",
       "website": "https://carta.com/",
       "trustCenter": "https://trust.carta.com/",
@@ -2561,6 +2610,13 @@
       "trustCenter": "https://trust.usecentralize.com",
       "platform": "Oneleet",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.usecentralize.com/&sz=128"
+    },
+    {
+      "name": "Cercli",
+      "website": "https://www.cercli.com",
+      "trustCenter": "https://trust.cercli.com",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cercli.com&sz=128"
     },
     {
       "name": "Cerebras Systems",
@@ -3299,6 +3355,13 @@
       "trustCenter": "https://trust.complif.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://complif.com&sz=128"
+    },
+    {
+      "name": "Complir",
+      "website": "https://complir.io/",
+      "trustCenter": "https://trust.complir.io",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=complir.io&sz=128"
     },
     {
       "name": "ConCntric",
@@ -4457,6 +4520,13 @@
       ]
     },
     {
+      "name": "Devyce",
+      "website": "https://devyce.com",
+      "trustCenter": "https://trust.devyce.com",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=devyce.com&sz=128"
+    },
+    {
       "name": "Dexter",
       "website": "https://www.getdexter.co/",
       "trustCenter": "https://trust.getdexter.co",
@@ -4640,6 +4710,13 @@
         "GDPR"
       ],
       "lastUpdated": "2026-05-01"
+    },
+    {
+      "name": "Doe",
+      "website": "https://doe.so/",
+      "trustCenter": "https://trust.doe.so",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=doe.so&sz=128"
     },
     {
       "name": "Dojah Inc",
@@ -6163,6 +6240,13 @@
       "trustCenter": "https://trust.geckorobotics.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.geckorobotics.com&sz=128"
+    },
+    {
+      "name": "Gem",
+      "website": "https://www.gem.com/",
+      "trustCenter": "https://trust.gem.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=gem.com&sz=128"
     },
     {
       "name": "Genomemedical",
@@ -7740,6 +7824,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=kadence.co&sz=128"
     },
     {
+      "name": "Kaigo Health",
+      "website": "https://www.kaigohealth.ai/",
+      "trustCenter": "https://trust.kaigohealth.ai",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=kaigohealth.ai&sz=128"
+    },
+    {
       "name": "Kaizen",
       "website": "https://kaizenautomation.com",
       "trustCenter": "https://trust.kaizenautomation.com",
@@ -7892,6 +7983,13 @@
       "trustCenter": "https://trust.kintsugihealth.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=kintsugihealth.com&sz=128"
+    },
+    {
+      "name": "Kita",
+      "website": "https://www.usekita.com/",
+      "trustCenter": "https://trust.usekita.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=usekita.com&sz=128"
     },
     {
       "name": "Klarity",
@@ -8508,6 +8606,13 @@
         "SOC 2 Type II"
       ],
       "lastUpdated": "2026-05-01"
+    },
+    {
+      "name": "LiteLLM",
+      "website": "https://www.litellm.ai/",
+      "trustCenter": "https://trust.litellm.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=litellm.ai&sz=128"
     },
     {
       "name": "Litera",
@@ -9267,6 +9372,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.modelml.com/&sz=128"
     },
     {
+      "name": "Modern",
+      "website": "https://getmodern.ai",
+      "trustCenter": "https://trust.getmodern.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=getmodern.ai&sz=128"
+    },
+    {
       "name": "Modern Treasury",
       "website": "http://www.moderntreasury.com/",
       "trustCenter": "https://trust.moderntreasury.com",
@@ -10013,6 +10125,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=opennote.com&sz=128"
     },
     {
+      "name": "Openroll",
+      "website": "https://www.openroll.com",
+      "trustCenter": "https://security.openroll.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=openroll.com&sz=128"
+    },
+    {
       "name": "OpenSesame",
       "website": "https://www.opensesame.com/",
       "trustCenter": "https://security.opensesame.com/",
@@ -10413,6 +10532,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://pharos.health/&sz=128"
     },
     {
+      "name": "Phases",
+      "website": "https://phases.ai",
+      "trustCenter": "https://trust.phases.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=phases.ai&sz=128"
+    },
+    {
       "name": "phospho",
       "website": "https://phospho.ai",
       "trustCenter": "https://trust.phospho.ai",
@@ -10548,6 +10674,13 @@
       "trustCenter": "https://trust.playlist.com/",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=playlist.com&sz=128"
+    },
+    {
+      "name": "Pluvo",
+      "website": "https://pluvo.io/",
+      "trustCenter": "https://trust.pluvo.io",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=pluvo.io&sz=128"
     },
     {
       "name": "Podium",
@@ -11266,6 +11399,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=reformhq.com&sz=128"
     },
     {
+      "name": "Regbase",
+      "website": "https://regbase.com",
+      "trustCenter": "https://trust.regbase.com",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=regbase.com&sz=128"
+    },
+    {
       "name": "Rehearsals",
       "website": "https://www.runrehearsals.com/",
       "trustCenter": "https://trust.runrehearsals.com",
@@ -11425,6 +11565,13 @@
       "trustCenter": "https://trust.revisiondojo.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://revisiondojo.com&sz=128"
+    },
+    {
+      "name": "Revyl",
+      "website": "https://www.revyl.com",
+      "trustCenter": "https://trust.revyl.com",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=revyl.com&sz=128"
     },
     {
       "name": "Rewardful",
@@ -12731,6 +12878,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=usestable.com&sz=128"
     },
     {
+      "name": "StackAI",
+      "website": "https://www.stackai.com",
+      "trustCenter": "https://trust.stackai.com",
+      "platform": "Secureframe",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=stackai.com&sz=128"
+    },
+    {
       "name": "Stackup",
       "website": "https://www.stackup.fi",
       "trustCenter": "https://trust.stackup.fi",
@@ -12785,6 +12939,13 @@
       "trustCenter": "https://trust.getstrada.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.getstrada.com/&sz=128"
+    },
+    {
+      "name": "Straia",
+      "website": "https://straia.io",
+      "trustCenter": "https://trust.straia.io",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=straia.io&sz=128"
     },
     {
       "name": "Stream",
@@ -13273,6 +13434,13 @@
       "trustCenter": "https://trust.promptingcompany.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=promptingcompany.com&sz=128"
+    },
+    {
+      "name": "The Synthesis Company",
+      "website": "https://thesynthesis.company",
+      "trustCenter": "https://trust.thesynthesis.company",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=thesynthesis.company&sz=128"
     },
     {
       "name": "Third Chair",
@@ -14756,8 +14924,8 @@
     }
   ],
   "meta": {
-    "total": 1472,
-    "generated": "2026-05-05T22:43:12.214Z",
+    "total": 1496,
+    "generated": "2026-05-05T22:48:24.270Z",
     "version": "1.0.0"
   }
 }
