@@ -27,7 +27,7 @@ Each entry in `data/trust-centers.json` contains:
   "platform": "Self-hosted",
   "iconUrl": "https://...",
   "certifications": ["SOC 2 Type II", "ISO 27001", "PCI DSS Level 1"],
-  "lastUpdated": "2026-04-27"
+  "lastVerified": "2026-04-27"
 }
 ```
 
@@ -39,7 +39,7 @@ Each entry in `data/trust-centers.json` contains:
 | `platform` | string | Trust center platform (Vanta, SafeBase, Drata, etc.) |
 | `iconUrl` | string | Company logo/favicon URL |
 | `certifications` | string[] | Security certifications (optional) |
-| `lastUpdated` | string | Last verification date YYYY-MM-DD (optional) |
+| `lastVerified` | string | Last verification date YYYY-MM-DD (optional) |
 | `csaStar` | object | CSA STAR Registry data (optional) |
 
 ## API Endpoints
