@@ -26,7 +26,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "1Password",
@@ -48,7 +48,7 @@
         "TX-RAMP",
         "StateRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "6Sense",
@@ -67,7 +67,7 @@
         "CSA STAR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "8x8",
@@ -86,7 +86,7 @@
         "ISO 27001",
         "ISO 27701"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "9fin",
@@ -129,7 +129,7 @@
         "HIPAA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Abel",
@@ -159,7 +159,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "AceUp",
@@ -182,7 +182,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Acquia Optimize",
@@ -204,7 +204,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Actionable",
@@ -216,7 +216,7 @@
         "SOC 2 Type II",
         "ISO 27001"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Activepieces",
@@ -241,7 +241,7 @@
         "CPRA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Adjust",
@@ -264,7 +264,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Adyen",
@@ -276,7 +276,7 @@
         "SOC 2 Type II",
         "PCI DSS"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Affil AI",
@@ -310,7 +310,7 @@
         "ISO 27001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Agentnoon",
@@ -358,7 +358,7 @@
         "ISO 27001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Airtable",
@@ -376,7 +376,7 @@
         "CPRA",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Airwallex",
@@ -391,7 +391,7 @@
         "PCI DSS",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Aisdr",
@@ -461,7 +461,7 @@
         "ISO 27001",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Alexsei",
@@ -501,7 +501,7 @@
       "certifications": [
         "SOC 2 Type II"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Aline",
@@ -512,7 +512,7 @@
       "certifications": [
         "SOC 2"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Alloy",
@@ -531,7 +531,7 @@
         "listedSince": "2020-10-13",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/alloy-srl"
       },
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Allstacks",
@@ -550,7 +550,7 @@
         "SOC 2",
         "ISO 27001"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Allus AI",
@@ -590,7 +590,7 @@
         "SOC 2 Type II",
         "ISO 27001"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "AlphaWatch AI",
@@ -610,7 +610,7 @@
         "HIPAA",
         "PCI DSS"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "altvia",
@@ -629,7 +629,7 @@
         "SOC 2 Type II",
         "SOC 2 Type I"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Amazon Web Services",
@@ -640,7 +640,7 @@
       "certifications": [
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Ambassador",
@@ -658,7 +658,7 @@
       "certifications": [
         "SOC 2 Type II"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Ameba",
@@ -670,7 +670,7 @@
         "SOC 2 Type II",
         "SOC 2 Type I"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Amplemarket",
@@ -699,7 +699,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Anaplan",
@@ -719,7 +719,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Anchor",
@@ -769,7 +769,7 @@
         "HIPAA",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "AnyDesk",
@@ -791,7 +791,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Anyshift",
@@ -802,7 +802,7 @@
       "certifications": [
         "SOC 2 Type II"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "ApiDog",
@@ -826,7 +826,7 @@
         "CPRA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Appian",
@@ -855,7 +855,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Apptegy",
@@ -887,7 +887,7 @@
         "CCPA",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Aragorn AI",
@@ -937,7 +937,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Arlo",
@@ -969,7 +969,7 @@
         "listedSince": "2021-03-08",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/armis-inc"
       },
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Arpari",
@@ -980,7 +980,7 @@
       "certifications": [
         "SOC 2 Type I"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Articulate",
@@ -998,7 +998,7 @@
         "CSA STAR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Artie",
@@ -1016,7 +1016,7 @@
       "certifications": [
         "SOC 2 Type II"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Artos",
@@ -1065,7 +1065,7 @@
         "listedSince": "2022-08-13",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/asana-inc"
       },
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Ashby",
@@ -1077,7 +1077,7 @@
         "SOC 2 Type II",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Assembly",
@@ -1091,7 +1091,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Asset Panda",
@@ -1187,7 +1187,7 @@
         "listedSince": "2018-03-20",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/atlassian"
       },
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Atomic",
@@ -1292,7 +1292,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Automox",
@@ -1311,7 +1311,7 @@
         "CSA STAR",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Autotab",
@@ -1445,7 +1445,7 @@
         "GDPR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Axle",
@@ -1513,7 +1513,7 @@
         "CSA STAR",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Azul",
@@ -1534,7 +1534,7 @@
         "CSA STAR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "backstitch",
@@ -1555,7 +1555,7 @@
         "HITRUST",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "BambooHR",
@@ -1579,7 +1579,7 @@
         "ISO 27001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Bead AI",
@@ -1758,7 +1758,7 @@
         "ISO 27001",
         "ISO 27701"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "BillionToOne",
@@ -1828,7 +1828,7 @@
         "TX-RAMP",
         "StateRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Bland",
@@ -1863,7 +1863,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Blockdaemon",
@@ -1917,7 +1917,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Bonterra",
@@ -1931,7 +1931,7 @@
         "PCI DSS",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "BootLoop",
@@ -2018,7 +2018,7 @@
         "CSA STAR",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Brex",
@@ -2032,7 +2032,7 @@
         "ISO 27001",
         "PCI DSS"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "BridgeCare Finance",
@@ -2053,7 +2053,7 @@
         "GDPR",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Brighthire",
@@ -2067,7 +2067,7 @@
         "CCPA",
         "CPRA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Brightspot",
@@ -2100,7 +2100,7 @@
         "SOX",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Broccoli AI",
@@ -2131,7 +2131,7 @@
         "listedSince": "2023-06-20",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/bugcrowd-inc"
       },
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Bugsnag",
@@ -2245,7 +2245,7 @@
         "listedSince": "2022-08-19",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/calendly-llc"
       },
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Calibermind",
@@ -2288,7 +2288,7 @@
         "GDPR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Canary Technologies",
@@ -2448,7 +2448,7 @@
         "PCI DSS",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "CAST AI",
@@ -2513,7 +2513,7 @@
         "PCI DSS",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Cellbyte",
@@ -2573,7 +2573,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Cerebrium",
@@ -2609,7 +2609,7 @@
         "FedRAMP",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Chainalysis",
@@ -2638,7 +2638,7 @@
         "PCI DSS",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Chariot",
@@ -2733,7 +2733,7 @@
       "certifications": [
         "ISO 27001"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Circleback",
@@ -2789,7 +2789,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "ClaimSorted",
@@ -2858,7 +2858,7 @@
         "CCPA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Cledara",
@@ -2882,7 +2882,7 @@
         "CPRA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "CleverTap",
@@ -2899,7 +2899,7 @@
         "CPRA",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "ClickHouse",
@@ -2917,7 +2917,7 @@
         "CCPA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Clickup",
@@ -2981,7 +2981,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "CloudCruise",
@@ -3007,7 +3007,7 @@
         "CCPA",
         "StateRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Cloudflare",
@@ -3025,7 +3025,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Cloudglue",
@@ -3058,7 +3058,7 @@
         "ISO 27001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Cluely",
@@ -3123,7 +3123,7 @@
       "certifications": [
         "SOC 2 Type I"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Cognigy",
@@ -3202,7 +3202,7 @@
         "CSA STAR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Comeet",
@@ -3333,7 +3333,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Connectwise Manage",
@@ -3414,7 +3414,7 @@
         "SOC 2 Type II",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "ControlUp",
@@ -3441,7 +3441,7 @@
       "certifications": [
         "SOC 2 Type II"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Conveo",
@@ -3600,7 +3600,7 @@
         "PCI DSS",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Cresta",
@@ -3621,7 +3621,7 @@
         "CPRA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Crimson",
@@ -3792,7 +3792,7 @@
         "CCPA",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Cyberark Workforce Identity",
@@ -3836,7 +3836,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "CyberHaven",
@@ -3886,7 +3886,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Cyphr AI",
@@ -3957,7 +3957,7 @@
         "CSA STAR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Dash Hudson",
@@ -3992,7 +3992,7 @@
         "ISO 27001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Dashworks",
@@ -4019,7 +4019,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "DataBank IMX",
@@ -4034,7 +4034,7 @@
         "HIPAA",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Databook",
@@ -4100,7 +4100,7 @@
         "listedSince": "2018-04-04",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/datadog"
       },
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "DataDome",
@@ -4156,7 +4156,7 @@
         "CCPA",
         "CPRA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "DBT",
@@ -4192,7 +4192,7 @@
         "CSA STAR",
         "StateRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Decipher AI",
@@ -4269,7 +4269,7 @@
         "PCI DSS",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Defacto",
@@ -4281,7 +4281,7 @@
         "ISO 27001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Degreed",
@@ -4394,7 +4394,7 @@
         "ISO 27001",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Descope",
@@ -4420,7 +4420,7 @@
         "SOC 2 Type I",
         "ISO 27001"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "DevCycle",
@@ -4440,7 +4440,7 @@
         "TX-RAMP",
         "StateRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "DevRev",
@@ -4544,7 +4544,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Dime",
@@ -4585,7 +4585,7 @@
         "SOC 3",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Diversion",
@@ -4639,7 +4639,7 @@
         "HIPAA",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Dojah Inc",
@@ -4809,7 +4809,7 @@
         "NIST",
         "StateRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "DTEX Systems",
@@ -4834,7 +4834,7 @@
       "certifications": [
         "SOC 2 Type II"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Dutchie",
@@ -4886,7 +4886,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "EarnBetter",
@@ -4898,7 +4898,7 @@
         "SOC 2 Type II",
         "SOC 2 Type I"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Easol",
@@ -4963,7 +4963,7 @@
         "CCPA",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Edge",
@@ -4984,7 +4984,7 @@
         "GDPR",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Edgedive",
@@ -5057,7 +5057,7 @@
         "PCI DSS",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Ellucian",
@@ -5115,7 +5115,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "EnergyCAP LLC.",
@@ -5150,7 +5150,7 @@
         "CCPA",
         "CPRA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Eon",
@@ -5170,7 +5170,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Epsilon3",
@@ -5206,7 +5206,7 @@
         "CSA STAR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "eqtble",
@@ -5327,7 +5327,7 @@
         "GDPR",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Exa",
@@ -5387,7 +5387,7 @@
         "CCPA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Expedia Group",
@@ -5424,7 +5424,7 @@
         "CSA STAR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Expensify",
@@ -5441,7 +5441,7 @@
         "CSA STAR",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Expo",
@@ -5517,7 +5517,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Fathom",
@@ -5568,7 +5568,7 @@
         "PCI DSS",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Figma",
@@ -5597,7 +5597,7 @@
         "listedSince": "2022-04-13",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/figma"
       },
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Figures",
@@ -5646,7 +5646,7 @@
         "CCPA",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "FINGREEN AI",
@@ -5658,7 +5658,7 @@
         "ISO 27001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Fini",
@@ -5747,7 +5747,7 @@
         "CSA STAR",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Fireworks AI",
@@ -5871,7 +5871,7 @@
         "SOC 2 Type II",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Float Health",
@@ -5977,7 +5977,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Fountain",
@@ -6142,7 +6142,7 @@
         "FedRAMP",
         "PCI DSS"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "GC AI",
@@ -6194,7 +6194,7 @@
       "certifications": [
         "ISO 27001"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Gigs",
@@ -6227,7 +6227,7 @@
         "GDPR",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "GitKraken",
@@ -6363,7 +6363,7 @@
         "FedRAMP",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Gorgias",
@@ -6397,7 +6397,7 @@
         "ISO 27001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Gradia Health",
@@ -6455,7 +6455,7 @@
         "CCPA",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Great Question",
@@ -6538,7 +6538,7 @@
       "certifications": [
         "ISO 27001"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Groq",
@@ -6608,7 +6608,7 @@
         "SOC 2 Type II",
         "HIPAA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "HackerOne",
@@ -6623,7 +6623,7 @@
         "ISO 27701",
         "FedRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "HackMD",
@@ -6756,7 +6756,7 @@
         "HIPAA",
         "HITRUST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Healia",
@@ -6777,7 +6777,7 @@
         "HITRUST",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Healthie",
@@ -6968,7 +6968,7 @@
         "CCPA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Hive",
@@ -7036,7 +7036,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Hudu",
@@ -7120,7 +7120,7 @@
         "CSA STAR",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Hyperbound",
@@ -7140,7 +7140,7 @@
         "ISO 27001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Hypotenuse AI",
@@ -7178,7 +7178,7 @@
         "GDPR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "iCIMS",
@@ -7220,7 +7220,7 @@
         "CCPA",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Illumio",
@@ -7262,7 +7262,7 @@
         "CPRA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Incident",
@@ -7285,7 +7285,7 @@
         "CSA STAR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Index",
@@ -7392,7 +7392,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Instapage",
@@ -7445,7 +7445,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Interface",
@@ -7479,7 +7479,7 @@
         "SOC 2 Type II",
         "ISO 27001"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Invert",
@@ -7552,7 +7552,7 @@
         "SOC 2 Type II",
         "PCI DSS"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Iterable",
@@ -7589,7 +7589,7 @@
         "HIPAA",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Jasper",
@@ -7641,7 +7641,7 @@
         "ISO 27018",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Jones IT",
@@ -7702,7 +7702,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Just Appraised",
@@ -7756,7 +7756,7 @@
         "SOC 2 Type II",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Kameleoon",
@@ -7860,7 +7860,7 @@
         "PCI DSS",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Kilsar",
@@ -8018,7 +8018,7 @@
         "CSA STAR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Korint Insurtech",
@@ -8031,7 +8031,7 @@
         "ISO 27001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "korzo",
@@ -8049,7 +8049,7 @@
       "certifications": [
         "ISO 27001"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Kustomer",
@@ -8158,7 +8158,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Lark",
@@ -8179,7 +8179,7 @@
         "ISO 27001",
         "ISO 27701"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Latent",
@@ -8223,7 +8223,7 @@
         "ISO 27701",
         "FedRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "LaunchNotes",
@@ -8354,7 +8354,7 @@
       "certifications": [
         "SOC 2 Type II"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Lenk",
@@ -8410,7 +8410,7 @@
         "CCPA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Lightdash",
@@ -8452,7 +8452,7 @@
         "GDPR",
         "HIPAA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "LinearB",
@@ -8489,7 +8489,7 @@
         "PCI DSS",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Linker Finance",
@@ -8507,7 +8507,7 @@
       "certifications": [
         "SOC 2 Type II"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Litera",
@@ -8523,7 +8523,7 @@
         "GDPR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "LIVE AWARE",
@@ -9028,7 +9028,7 @@
         "SOC 2 Type II",
         "PCI DSS"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Merge",
@@ -9137,7 +9137,7 @@
         "GDPR",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "MICSI",
@@ -9234,7 +9234,7 @@
         "ISO 42001",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Mirrorweb",
@@ -9257,7 +9257,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Model ML",
@@ -9337,7 +9337,7 @@
         "NIST",
         "TX-RAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "MongoDB",
@@ -9581,7 +9581,7 @@
         "HIPAA",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "NetLink Voice",
@@ -9735,7 +9735,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Nova Credit",
@@ -9872,7 +9872,7 @@
         "NIST",
         "StateRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Omeda",
@@ -10179,7 +10179,7 @@
         "FedRAMP",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Palla",
@@ -10391,7 +10391,7 @@
         "SOC 2 Type II",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Personio",
@@ -10438,7 +10438,7 @@
         "HIPAA",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Pinnacle",
@@ -11351,7 +11351,7 @@
       "certifications": [
         "SOC 2 Type II"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Reshape Biotech",
@@ -11651,7 +11651,7 @@
         "ISO 27001",
         "FedRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Rulebase",
@@ -11773,7 +11773,7 @@
         "FedRAMP",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "SalesIntel VisitorIntel",
@@ -11830,7 +11830,7 @@
         "ISO 27701",
         "ISO 42001"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Sapiens",
@@ -12062,7 +12062,7 @@
         "FedRAMP",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Sentra",
@@ -12103,7 +12103,7 @@
         "StateRAMP",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "ServiceTitan",
@@ -12353,7 +12353,7 @@
         "listedSince": "2018-03-23",
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/slack"
       },
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Slash",
@@ -12462,7 +12462,7 @@
         "HITRUST",
         "CSA STAR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Snyk",
@@ -12476,7 +12476,7 @@
         "ISO 27017",
         "GDPR"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Socratix AI",
@@ -12808,7 +12808,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Stripo",
@@ -13585,7 +13585,7 @@
         "CPRA",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Twingate",
@@ -13609,7 +13609,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "UIPath",
@@ -14498,7 +14498,7 @@
         "GDPR",
         "NIST"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Workday Strategic Sourcing",
@@ -14600,7 +14600,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Zeal",
@@ -14704,7 +14704,7 @@
         "TX-RAMP",
         "StateRAMP"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "ZoomInfo",
@@ -14719,7 +14719,7 @@
         "GDPR",
         "CCPA"
       ],
-      "lastUpdated": "2026-04-27"
+      "lastUpdated": "2026-05-01"
     },
     {
       "name": "Zscaler",
@@ -14757,7 +14757,7 @@
   ],
   "meta": {
     "total": 1472,
-    "generated": "2026-05-04T06:22:16.938Z",
+    "generated": "2026-05-05T22:43:12.214Z",
     "version": "1.0.0"
   }
 }
