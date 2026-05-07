@@ -1,5 +1,5 @@
 {
-  "totalCompanies": 1496,
+  "totalCompanies": 1511,
   "platformCounts": [
     {
       "platform": "Vanta",
@@ -7,7 +7,7 @@
     },
     {
       "platform": "SafeBase",
-      "count": 470
+      "count": 472
     },
     {
       "platform": "Oneleet",
@@ -27,7 +27,11 @@
     },
     {
       "platform": "Secureframe",
-      "count": 29
+      "count": 30
+    },
+    {
+      "platform": "Sprinto",
+      "count": 17
     },
     {
       "platform": "Delve",
@@ -44,10 +48,6 @@
     {
       "platform": "HyperComply",
       "count": 9
-    },
-    {
-      "platform": "Sprinto",
-      "count": 5
     },
     {
       "platform": "Comp AI",
@@ -74,5 +74,5 @@
       "count": 1
     }
   ],
-  "generated": "2026-05-05T23:23:07.835Z"
+  "generated": "2026-05-07T06:53:31.237Z"
 }
