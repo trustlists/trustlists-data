@@ -1,45 +1,45 @@
 {
-  "totalCompanies": 2629,
+  "totalCompanies": 3915,
   "platformCounts": [
     {
       "platform": "Vanta",
-      "count": 1218
+      "count": 2019
     },
     {
       "platform": "SafeBase",
-      "count": 894
+      "count": 1251
     },
     {
       "platform": "Oneleet",
-      "count": 158
+      "count": 184
     },
     {
       "platform": "Conveyor",
-      "count": 102
+      "count": 126
     },
     {
       "platform": "Secureframe",
-      "count": 59
+      "count": 105
     },
     {
       "platform": "Self-hosted",
       "count": 37
     },
     {
+      "platform": "HyperComply",
+      "count": 35
+    },
+    {
       "platform": "Bastion",
       "count": 32
     },
     {
-      "platform": "HyperComply",
-      "count": 24
+      "platform": "Whistic",
+      "count": 31
     },
     {
       "platform": "SecurityPal",
-      "count": 24
-    },
-    {
-      "platform": "Whistic",
-      "count": 22
+      "count": 28
     },
     {
       "platform": "Sprinto",
@@ -54,19 +54,23 @@
       "count": 7
     },
     {
+      "platform": "Wolfia",
+      "count": 6
+    },
+    {
       "platform": "Comp AI",
       "count": 4
     },
     {
-      "platform": "Wolfia",
+      "platform": "Scytale",
+      "count": 4
+    },
+    {
+      "platform": "OneTrust",
       "count": 3
     },
     {
       "platform": "Scrut",
-      "count": 2
-    },
-    {
-      "platform": "Scytale",
       "count": 2
     },
     {
@@ -78,10 +82,6 @@
       "count": 1
     },
     {
-      "platform": "OneTrust",
-      "count": 1
-    },
-    {
       "platform": "Iru",
       "count": 1
     },
@@ -90,9 +90,13 @@
       "count": 1
     },
     {
+      "platform": "Drata",
+      "count": 1
+    },
+    {
       "platform": "Anecdotes",
       "count": 1
     }
   ],
-  "generated": "2026-05-07T19:04:08.848Z"
+  "generated": "2026-05-31T02:12:54.548Z"
 }
