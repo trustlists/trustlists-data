@@ -1,13 +1,13 @@
 {
-  "totalCompanies": 3944,
+  "totalCompanies": 3942,
   "platformCounts": [
     {
       "platform": "Vanta",
-      "count": 2036
+      "count": 2039
     },
     {
       "platform": "SafeBase",
-      "count": 1251
+      "count": 1252
     },
     {
       "platform": "Oneleet",
@@ -47,7 +47,7 @@
     },
     {
       "platform": "Delve",
-      "count": 15
+      "count": 9
     },
     {
       "platform": "Wolfia",
@@ -98,5 +98,5 @@
       "count": 1
     }
   ],
-  "generated": "2026-06-03T19:10:54.081Z"
+  "generated": "2026-06-03T21:35:57.603Z"
 }
