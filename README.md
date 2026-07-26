@@ -1,4 +1,4 @@
-# TrustLists Data
+# trustlists Data
 
 The largest open directory of company trust centers, security pages, and compliance documentation.
 
@@ -53,12 +53,12 @@ No API key required. No rate limits.
 
 ## Attribution Required
 
-TrustLists is free to use under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). **In return, we require a visible dofollow link** on every page or application that uses this data.
+trustlists is free to use under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). **In return, we require a visible dofollow link** on every page or application that uses this data.
 
 ### Add this to your footer
 
 ```html
-<a href="https://trustlists.org">Data by TrustLists</a>
+<a href="https://trustlists.org">Data by trustlists</a>
 ```
 
 ### Requirements
@@ -66,7 +66,7 @@ TrustLists is free to use under the [Apache 2.0 License](https://www.apache.org/
 - ✅ Standard `<a>` hyperlink — visible to users, not hidden via CSS
 - ✅ Dofollow link — no `rel="nofollow"`, `rel="sponsored"`, or `rel="ugc"`
 - ✅ Placed in a visible area: footer, sidebar, or about/credits page
-- ✅ Readable anchor text such as "Data by TrustLists" or "Powered by TrustLists"
+- ✅ Readable anchor text such as "Data by trustlists" or "Powered by trustlists"
 
 ⚠️ Non-compliant domains may be blocked without notice.
 
@@ -82,7 +82,7 @@ We welcome contributions! You can:
 
 ## Data Updates
 
-This repository is automatically synced from the main TrustLists directory. Data is updated:
+This repository is automatically synced from the main trustlists directory. Data is updated:
 
 - **Continuously** as new trust centers are discovered and submitted
 - **Bi-weekly** for certification data refresh via automated scripts
