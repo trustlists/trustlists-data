@@ -1943,6 +1943,13 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Anchor Browser",
+      "website": "https://anchorbrowser.io/",
+      "trustCenter": "https://trust.anchorbrowser.io/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=anchorbrowser.io&sz=128"
+    },
+    {
       "name": "Andela",
       "website": "https://andela.com",
       "trustCenter": "https://trust.andela.com",
@@ -2768,6 +2775,13 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Artemis Security",
+      "website": "https://artemissecurity.com/",
+      "trustCenter": "https://trust.artemissecurity.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=artemissecurity.com&sz=128"
+    },
+    {
       "name": "Arthrex",
       "website": "https://arthrex.com",
       "trustCenter": "https://trust.arthrex.com",
@@ -2930,6 +2944,13 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "AskVinny",
+      "website": "https://askvinny.com/",
+      "trustCenter": "https://trust.askvinny.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=askvinny.com&sz=128"
+    },
+    {
       "name": "Aspect",
       "website": "https://aspect.inc",
       "trustCenter": "https://trust.aspect.inc",
@@ -2961,6 +2982,13 @@
       ],
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Assessed Intelligence",
+      "website": "https://assessedintelligence.com/",
+      "trustCenter": "https://assessedintelligence.com/trust-center/",
+      "platform": "Self-hosted",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=assessedintelligence.com&sz=128"
     },
     {
       "name": "Asset Panda",
@@ -4172,6 +4200,13 @@
       ],
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Bentley Systems",
+      "website": "https://www.bentley.com/",
+      "trustCenter": "https://trustportal.bentley.com/",
+      "platform": "Conveyor",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bentley.com&sz=128"
     },
     {
       "name": "Bentoml",
@@ -8504,6 +8539,13 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Comply",
+      "website": "https://www.comply.com/",
+      "trustCenter": "https://trust.comply.com/",
+      "platform": "Responsive",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=comply.com&sz=128"
+    },
+    {
       "name": "Complycube",
       "website": "https://complycube.com",
       "trustCenter": "https://trust.complycube.com",
@@ -8664,6 +8706,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=consensys.io&sz=128"
     },
     {
+      "name": "Console",
+      "website": "https://console.com/",
+      "trustCenter": "https://security.console.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=console.com&sz=128"
+    },
+    {
       "name": "Constructable",
       "website": "https://www.constructable.ai/",
       "trustCenter": "https://trust.constructable.ai",
@@ -8679,6 +8728,13 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=contactmonkey.com&sz=128",
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Contentful",
+      "website": "https://www.contentful.com/",
+      "trustCenter": "https://trust.contentful.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=contentful.com&sz=128"
     },
     {
       "name": "Contentsquare",
@@ -9643,6 +9699,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=cursor.com&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Customer.io",
+      "website": "https://customer.io/",
+      "trustCenter": "https://customer.io/security",
+      "platform": "Self-hosted",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=customer.io&sz=128"
     },
     {
       "name": "Cvent",
@@ -12106,6 +12169,13 @@
       ],
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Eden Data",
+      "website": "https://edendata.com/",
+      "trustCenter": "https://trust.edendata.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=edendata.com&sz=128"
     },
     {
       "name": "Edge",
@@ -19948,6 +20018,13 @@
       "useBrandfetch": true
     },
     {
+      "name": "JetBrains",
+      "website": "https://www.jetbrains.com/",
+      "trustCenter": "https://trust-center.jetbrains.com/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=jetbrains.com&sz=128"
+    },
+    {
       "name": "Jiminny",
       "website": "https://jiminny.com",
       "trustCenter": "https://trust.jiminny.com",
@@ -23888,7 +23965,7 @@
       "name": "Mem0",
       "website": "https://mem0.ai",
       "trustCenter": "https://trust.mem0.ai",
-      "platform": "Delve",
+      "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=mem0.ai&sz=128",
       "useBrandfetch": true
     },
@@ -27818,6 +27895,13 @@
       ]
     },
     {
+      "name": "PagerDuty",
+      "website": "https://www.pagerduty.com/",
+      "trustCenter": "https://www.pagerduty.com/security/",
+      "platform": "Self-hosted",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=pagerduty.com&sz=128"
+    },
+    {
       "name": "Palantir",
       "website": "https://www.palantir.com/",
       "trustCenter": "https://palantir.safebase.us/",
@@ -29472,6 +29556,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=posit.co&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-05-31"
+    },
+    {
+      "name": "PostHog",
+      "website": "https://posthog.com/",
+      "trustCenter": "https://trust.posthog.com/",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=posthog.com&sz=128"
     },
     {
       "name": "Postman",
@@ -31920,6 +32011,13 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Responsive",
+      "website": "https://responsive.io/",
+      "trustCenter": "https://trust.responsive.io/",
+      "platform": "Responsive",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=responsive.io&sz=128"
+    },
+    {
       "name": "Restaurant365",
       "website": "https://restaurant365.com",
       "trustCenter": "https://trust.restaurant365.com",
@@ -34254,6 +34352,13 @@
       "lastVerified": "2026-08-01"
     },
     {
+      "name": "Sherpa°",
+      "website": "https://joinsherpa.com/",
+      "trustCenter": "https://trust.joinsherpa.com/",
+      "platform": "Secureframe",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=joinsherpa.com&sz=128"
+    },
+    {
       "name": "Sherpany",
       "website": "https://sherpany.com",
       "trustCenter": "https://trust.sherpany.com",
@@ -35538,6 +35643,13 @@
         "GDPR"
       ],
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "SOTI",
+      "website": "https://www.soti.net/",
+      "trustCenter": "https://app.conveyor.com/profile/soti-inc",
+      "platform": "Conveyor",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=soti.net&sz=128"
     },
     {
       "name": "Soundstack",
@@ -38282,6 +38394,13 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "TestMu AI",
+      "website": "https://www.testmuai.com/",
+      "trustCenter": "https://trust.testmuai.com/",
+      "platform": "Scrut",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=testmuai.com&sz=128"
+    },
+    {
       "name": "testRigor",
       "website": "https://testrigor.com",
       "trustCenter": "https://trust.testrigor.com",
@@ -38576,6 +38695,13 @@
       ]
     },
     {
+      "name": "ThreatLocker",
+      "website": "https://threatlocker.com/",
+      "trustCenter": "https://app.conveyor.com/profile/threatlocker",
+      "platform": "Conveyor",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=threatlocker.com&sz=128"
+    },
+    {
       "name": "Threeflow",
       "website": "https://threeflow.com",
       "trustCenter": "https://trust.threeflow.com",
@@ -38832,6 +38958,13 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=tldv.io&sz=128",
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Toddle",
+      "website": "https://www.toddleapp.com/",
+      "trustCenter": "https://trust.toddleapp.com/",
+      "platform": "Scrut",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=toddleapp.com&sz=128"
     },
     {
       "name": "Together",
@@ -42531,6 +42664,13 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Xima Software",
+      "website": "https://ximasoftware.com/",
+      "trustCenter": "https://security.ximasoftware.com/",
+      "platform": "Scrut",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=ximasoftware.com&sz=128"
+    },
+    {
       "name": "Xing",
       "website": "https://xing.com",
       "trustCenter": "https://trust.xing.com",
@@ -43221,6 +43361,13 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Zluri",
+      "website": "https://www.zluri.com/",
+      "trustCenter": "https://trust.zluri.com/",
+      "platform": "Scrut",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=zluri.com&sz=128"
+    },
+    {
       "name": "Zolvo",
       "website": "https://zolvo.com/",
       "trustCenter": "https://trust.zolvo.com",
@@ -43367,8 +43514,8 @@
     }
   ],
   "meta": {
-    "total": 4013,
-    "generated": "2026-08-01T10:46:21.171Z",
+    "total": 4034,
+    "generated": "2026-08-14T22:02:07.415Z",
     "version": "1.0.0"
   }
 }
