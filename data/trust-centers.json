@@ -9487,7 +9487,7 @@
       "lastVerified": "2026-06-01"
     },
     {
-      "name": "Crowdstrike",
+      "name": "CrowdStrike",
       "website": "https://www.crowdstrike.com/",
       "trustCenter": "https://trust.crowdstrike.com/",
       "platform": "SafeBase",
@@ -42563,7 +42563,7 @@
       "lastVerified": "2026-06-01"
     },
     {
-      "name": "Wpp",
+      "name": "WPP",
       "website": "https://wpp.com",
       "trustCenter": "https://trust.wpp.com",
       "platform": "SafeBase",
@@ -43515,7 +43515,7 @@
   ],
   "meta": {
     "total": 4034,
-    "generated": "2026-08-14T22:02:07.415Z",
+    "generated": "2026-08-30T18:09:41.542Z",
     "version": "1.0.0"
   }
 }
