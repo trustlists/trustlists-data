@@ -1,17 +1,17 @@
 {
-  "totalCompanies": 4034,
+  "totalCompanies": 4072,
   "platformCounts": [
     {
       "platform": "Vanta",
-      "count": 2088
+      "count": 2113
     },
     {
       "platform": "SafeBase",
-      "count": 1259
+      "count": 1262
     },
     {
       "platform": "Oneleet",
-      "count": 216
+      "count": 226
     },
     {
       "platform": "Conveyor",
@@ -102,5 +102,5 @@
       "count": 1
     }
   ],
-  "generated": "2026-08-30T18:10:01.421Z"
+  "generated": "2026-09-01T14:03:29.116Z"
 }

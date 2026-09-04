@@ -2059,6 +2059,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Antigen",
+      "website": "https://antigen.sh",
+      "trustCenter": "https://trust.antigen.sh",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=antigen.sh&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Antithesis",
       "website": "https://antithesis.com",
       "trustCenter": "https://trust.antithesis.com",
@@ -4242,6 +4251,15 @@
       ]
     },
     {
+      "name": "Bernard",
+      "website": "https://bernardhq.com",
+      "trustCenter": "https://trust.bernardhq.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bernardhq.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "BestDefense",
       "website": "https://bestdefense.io",
       "trustCenter": "https://trust.bestdefense.io",
@@ -4709,6 +4727,15 @@
         "GDPR"
       ],
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Blacksmith",
+      "website": "https://blacksmith.sh",
+      "trustCenter": "https://trust.blacksmith.sh",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=blacksmith.sh&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Blancco",
@@ -5910,6 +5937,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Callback",
+      "website": "https://getcallback.ai",
+      "trustCenter": "https://trust.getcallback.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=getcallback.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Callbox",
       "website": "https://callbox.com",
       "trustCenter": "https://trust.callbox.com",
@@ -6197,6 +6233,15 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=carde.io&sz=128",
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Care GP",
+      "website": "https://caregp.com.au",
+      "trustCenter": "https://trust.caregp.com.au",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=caregp.com.au&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "CareBoarding",
@@ -7654,6 +7699,15 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=clerk.com&sz=128"
     },
     {
+      "name": "Clerked",
+      "website": "https://clerked.ai",
+      "trustCenter": "https://trust.clerked.ai",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=clerked.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "CleverTap",
       "website": "https://www.clevertap.com/",
       "trustCenter": "https://trust.clevertap.com/",
@@ -8613,6 +8667,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Conductor",
+      "website": "https://conductor.build",
+      "trustCenter": "https://trust.conductor.build",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=conductor.build&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Conductor Is",
       "website": "https://conductor.is",
       "trustCenter": "https://trust.conductor.is",
@@ -8993,6 +9056,15 @@
         "SOC 3"
       ],
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Copperlane",
+      "website": "https://copperlane.ai",
+      "trustCenter": "https://trust.copperlane.ai",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=copperlane.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "CopyCat",
@@ -9525,6 +9597,15 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=cruciallearning.com&sz=128",
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Crunched",
+      "website": "https://usecrunched.com",
+      "trustCenter": "https://trust.usecrunched.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=usecrunched.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Crystalknows",
@@ -10225,6 +10306,15 @@
       ],
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Datafruit",
+      "website": "https://datafruit.ai",
+      "trustCenter": "https://trust.datafruit.ai",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=datafruit.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Datagalaxy",
@@ -10969,6 +11059,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Dialogus",
+      "website": "https://dialoguslabs.com",
+      "trustCenter": "https://trust.dialoguslabs.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=dialoguslabs.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Dialpad",
       "website": "https://dialpad.com",
       "trustCenter": "https://trust.dialpad.com",
@@ -11389,6 +11488,15 @@
       ],
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Dodo",
+      "website": "https://dodo.ai",
+      "trustCenter": "https://trust.dodo.ai",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=dodo.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Doe",
@@ -12467,6 +12575,15 @@
       "lastVerified": "2026-05-07"
     },
     {
+      "name": "Elevate",
+      "website": "https://useelevate.dev",
+      "trustCenter": "https://trust.useelevate.dev",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=useelevate.dev&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "ElevenLabs",
       "website": "https://elevenlabs.io",
       "trustCenter": "https://compliance.elevenlabs.io",
@@ -12583,6 +12700,15 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=embrace.io&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Embrasure",
+      "website": "https://embrasure.ai",
+      "trustCenter": "https://trust.embrasure.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=embrasure.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Emburse",
@@ -13243,6 +13369,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Evergrove",
+      "website": "https://evergrovelabs.com",
+      "trustCenter": "https://trust.evergrovelabs.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=evergrovelabs.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Everlaw",
       "website": "https://everlaw.com",
       "trustCenter": "https://trust.everlaw.com",
@@ -13302,6 +13437,15 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=everway.com&sz=128",
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Every",
+      "website": "https://every.io",
+      "trustCenter": "https://trust.every.io",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=every.io&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Everydayspeech",
@@ -15888,6 +16032,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Giga",
+      "website": "https://giga.ai",
+      "trustCenter": "https://trust.giga.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=giga.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Gigamon",
       "website": "https://www.gigamon.com/",
       "trustCenter": "https://trust.gigamon.com/",
@@ -18070,6 +18223,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Hoplite",
+      "website": "https://hoplite.sh",
+      "trustCenter": "https://trust.hoplite.sh",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=hoplite.sh&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Hopskipdrive",
       "website": "https://hopskipdrive.com",
       "trustCenter": "https://trust.hopskipdrive.com",
@@ -19826,6 +19988,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "item",
+      "website": "https://item.app",
+      "trustCenter": "https://trust.item.app",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=item.app&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Iterable",
       "website": "https://iterable.com",
       "trustCenter": "https://trust.iterable.com",
@@ -20529,6 +20700,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Kalshi",
+      "website": "https://kalshi.com",
+      "trustCenter": "https://trust.kalshi.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=kalshi.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Kameleoon",
       "website": "https://kameleoon.com",
       "trustCenter": "https://security.kameleoon.com",
@@ -20875,6 +21055,15 @@
       ],
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Kilvin",
+      "website": "https://kilvin.ai",
+      "trustCenter": "https://trust.kilvin.ai",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=kilvin.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Kindbody",
@@ -21273,6 +21462,15 @@
         "ISO 27001",
         "GDPR"
       ]
+    },
+    {
+      "name": "Korapay",
+      "website": "https://korahq.com",
+      "trustCenter": "https://trust.korahq.com",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=korahq.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Kore",
@@ -22388,6 +22586,15 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=lingco.io&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Lingo.dev",
+      "website": "https://lingo.dev",
+      "trustCenter": "https://trust.lingo.dev",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=lingo.dev&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Linkana",
@@ -23553,6 +23760,15 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=mashgin.com&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Mason",
+      "website": "https://bymason.com",
+      "trustCenter": "https://trust.bymason.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bymason.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Massive",
@@ -27065,6 +27281,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "OneGC",
+      "website": "https://onegc.com",
+      "trustCenter": "https://trust.onegc.com",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=onegc.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Onehub",
       "website": "https://onehub.com",
       "trustCenter": "https://trust.onehub.com",
@@ -27368,6 +27593,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "OpenTag",
+      "website": "https://tryopentag.com",
+      "trustCenter": "https://trust.tryopentag.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=tryopentag.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Openzeppelin",
       "website": "https://openzeppelin.com",
       "trustCenter": "https://trust.openzeppelin.com",
@@ -27406,6 +27640,15 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=optable.co&sz=128",
       "lastVerified": "2026-05-07"
+    },
+    {
+      "name": "Optery",
+      "website": "https://optery.com",
+      "trustCenter": "https://trust.optery.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=optery.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Optioncare",
@@ -28200,6 +28443,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "PathPilot",
+      "website": "https://getpathpilot.com",
+      "trustCenter": "https://trust.getpathpilot.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=getpathpilot.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Patientiq",
       "website": "https://patientiq.io",
       "trustCenter": "https://trust.patientiq.io",
@@ -28627,6 +28879,15 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=perlstreet.com&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "PermitFlow",
+      "website": "https://permitflow.com",
+      "trustCenter": "https://trust.permitflow.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=permitflow.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Permitium",
@@ -29501,6 +29762,15 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=portalhq.io&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Porter",
+      "website": "https://porter.run",
+      "trustCenter": "https://trust.porter.run",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=porter.run&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Porter Metrics",
@@ -30566,6 +30836,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Qlo",
+      "website": "https://getqlo.com",
+      "trustCenter": "https://trust.getqlo.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=getqlo.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Qlty Sh",
       "website": "https://qlty.sh",
       "trustCenter": "https://trust.qlty.sh",
@@ -30962,6 +31241,15 @@
         "HITRUST",
         "GDPR"
       ]
+    },
+    {
+      "name": "Radley",
+      "website": "https://radley.health",
+      "trustCenter": "https://trust.radley.health",
+      "platform": "Oneleet",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=radley.health&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Radnet",
@@ -33180,6 +33468,15 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=salesrabbit.com&sz=128",
       "lastVerified": "2026-05-07"
+    },
+    {
+      "name": "Salt Security",
+      "website": "https://salt.security",
+      "trustCenter": "https://trust.salt.security",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=salt.security&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Salussafety",
@@ -35746,6 +36043,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Sparkles",
+      "website": "https://sparkles.dev",
+      "trustCenter": "https://trust.sparkles.dev",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=sparkles.dev&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Spartacommodities",
       "website": "https://spartacommodities.com",
       "trustCenter": "https://trust.spartacommodities.com",
@@ -36965,6 +37271,15 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=sunfireinc.com&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Sunset",
+      "website": "https://hellosunset.com",
+      "trustCenter": "https://trust.hellosunset.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=hellosunset.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Sunthetics",
@@ -39567,6 +39882,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Truli",
+      "website": "https://trytruli.com",
+      "trustCenter": "https://trust.trytruli.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=trytruli.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Truora",
       "website": "https://truora.com",
       "trustCenter": "https://security.truora.com",
@@ -40723,6 +41047,15 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=vendasta.com&sz=128",
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Vene Health",
+      "website": "https://venehealth.com",
+      "trustCenter": "https://trust.venehealth.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=venehealth.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Venngo",
@@ -42218,6 +42551,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Within",
+      "website": "https://within.ai",
+      "trustCenter": "https://trust.within.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=within.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-09-01"
+    },
+    {
       "name": "Withmesh",
       "website": "https://withmesh.com",
       "trustCenter": "https://trust.withmesh.com",
@@ -43514,8 +43856,8 @@
     }
   ],
   "meta": {
-    "total": 4034,
-    "generated": "2026-08-30T18:09:41.542Z",
+    "total": 4072,
+    "generated": "2026-09-01T14:03:28.933Z",
     "version": "1.0.0"
   }
 }
