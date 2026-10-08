@@ -24,7 +24,10 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=11x.ai&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-03"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "12twenty",
@@ -44,10 +47,11 @@
         "SOC 2 Type II",
         "SOC 3",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "TX-RAMP"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "1mind",
@@ -202,9 +206,10 @@
         "PCI DSS",
         "GDPR",
         "CCPA",
-        "NIST"
+        "NIST",
+        "ISO 42001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "6Sense",
@@ -346,9 +351,10 @@
         "ISO 27001",
         "GDPR",
         "CCPA",
-        "NIST"
+        "NIST",
+        "ISO 42001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "ABC Legal",
@@ -568,10 +574,12 @@
         "HIPAA",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001",
+        "CSA STAR"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Acorn Works",
@@ -836,10 +844,11 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=adyen.com&sz=128",
       "certifications": [
         "SOC 2 Type II",
-        "PCI DSS"
+        "PCI DSS",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Aegis",
@@ -1037,9 +1046,10 @@
         "SOC 2",
         "ISO 27017",
         "ISO 27018",
-        "ISO 27701"
+        "ISO 27701",
+        "ISO 42001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Agorapulse",
@@ -1167,11 +1177,13 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=airspace.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2",
         "ISO 27001",
-        "GDPR"
+        "GDPR",
+        "HIPAA",
+        "CCPA"
       ]
     },
     {
@@ -1745,9 +1757,10 @@
         "GDPR",
         "CCPA",
         "CPRA",
-        "CSA STAR"
+        "CSA STAR",
+        "SOC 2 Type I"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Amazon Web Services",
@@ -1756,9 +1769,10 @@
       "platform": "Self-hosted",
       "iconUrl": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=128",
       "certifications": [
-        "GDPR"
+        "GDPR",
+        "CCPA"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Ambassador",
@@ -1862,14 +1876,15 @@
       "trustCenter": "https://trust.amplitude.com",
       "platform": "Wolfia",
       "iconUrl": "https://www.google.com/s2/favicons?domain=amplitude.com&sz=128",
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
         "ISO 27001",
         "ISO 27017",
         "ISO 27018",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "HIPAA"
       ]
     },
     {
@@ -1947,7 +1962,16 @@
       "website": "https://anchorbrowser.io/",
       "trustCenter": "https://trust.anchorbrowser.io/",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=anchorbrowser.io&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=anchorbrowser.io&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 2 Type I",
+        "ISO 27001",
+        "HIPAA",
+        "GDPR",
+        "CCPA"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Andela",
@@ -2121,9 +2145,10 @@
       "certifications": [
         "SOC 2 Type II",
         "GDPR",
-        "SOX"
+        "SOX",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Anzenna",
@@ -2552,7 +2577,11 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=archbee.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2",
+        "GDPR"
+      ]
     },
     {
       "name": "Archer",
@@ -2614,9 +2643,11 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=arcticwolf.com&sz=128",
       "certifications": [
         "SOC 2 Type II",
-        "TX-RAMP"
+        "TX-RAMP",
+        "SOC 2 Type I",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Arena",
@@ -2668,9 +2699,10 @@
         "ISO 27001",
         "ISO 27701",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 42001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Arista",
@@ -2997,7 +3029,11 @@
       "website": "https://assessedintelligence.com/",
       "trustCenter": "https://assessedintelligence.com/trust-center/",
       "platform": "Self-hosted",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=assessedintelligence.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=assessedintelligence.com&sz=128",
+      "certifications": [
+        "ISO 42001"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Asset Panda",
@@ -3111,7 +3147,8 @@
         "GDPR",
         "CCPA",
         "CSA STAR",
-        "StateRAMP"
+        "StateRAMP",
+        "ISO 27018"
       ],
       "csaStar": {
         "level": 1,
@@ -3122,7 +3159,7 @@
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/atlassian"
       },
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Atomic",
@@ -3503,9 +3540,10 @@
         "PCI DSS",
         "GDPR",
         "CCPA",
-        "NIST"
+        "NIST",
+        "CSA STAR"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Avallon AI",
@@ -3858,9 +3896,11 @@
         "SOC 3",
         "HIPAA",
         "FedRAMP",
-        "GDPR"
+        "GDPR",
+        "ISO 27001",
+        "NIST"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Azira",
@@ -4154,9 +4194,10 @@
         "SOC 2 Type I",
         "HIPAA",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type II"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Belvo",
@@ -4215,7 +4256,14 @@
       "website": "https://www.bentley.com/",
       "trustCenter": "https://trustportal.bentley.com/",
       "platform": "Conveyor",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=bentley.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bentley.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "ISO 27701"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Bentoml",
@@ -4331,10 +4379,11 @@
         "ISO 27001",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Beye",
@@ -4599,10 +4648,11 @@
       "certifications": [
         "SOC 2 Type II",
         "PCI DSS",
-        "NIST"
+        "NIST",
+        "SOC 3"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Bird",
@@ -4611,7 +4661,16 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=bird.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-07-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "ISO 27001",
+        "HIPAA",
+        "GDPR",
+        "CCPA",
+        "CPRA"
+      ]
     },
     {
       "name": "Birdie Care",
@@ -4802,10 +4861,11 @@
         "SOC 2",
         "ISO 27001",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Blinkist",
@@ -4880,7 +4940,12 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=bloomerang.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-06"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "PCI DSS",
+        "TX-RAMP"
+      ]
     },
     {
       "name": "Bloomflow",
@@ -5015,6 +5080,18 @@
       ]
     },
     {
+      "name": "Bodyguard",
+      "website": "https://www.bodyguard.ai",
+      "trustCenter": "https://trust.bodyguard.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=bodyguard.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
+    },
+    {
       "name": "Bold Commerce",
       "website": "https://www.boldcommerce.com/",
       "trustCenter": "https://trust.boldcommerce.com/",
@@ -5077,10 +5154,11 @@
         "SOC 2",
         "ISO 27001",
         "PCI DSS",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Booking",
@@ -5088,7 +5166,12 @@
       "trustCenter": "https://trust.booking.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=booking.com&sz=128",
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "PCI DSS",
+        "GDPR",
+        "SOX"
+      ]
     },
     {
       "name": "Boom",
@@ -5247,9 +5330,12 @@
         "GDPR",
         "CCPA",
         "TX-RAMP",
-        "StateRAMP"
+        "StateRAMP",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Branching Minds",
@@ -5281,7 +5367,12 @@
       "trustCenter": "https://trust.brandmetrics.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=brandmetrics.com&sz=128",
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 2 Type I",
+        "GDPR"
+      ]
     },
     {
       "name": "Brave",
@@ -5324,10 +5415,11 @@
         "CCPA",
         "CPRA",
         "CSA STAR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "NIST"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Bretton",
@@ -5336,7 +5428,12 @@
       "platform": "Wolfia",
       "iconUrl": "https://www.google.com/s2/favicons?domain=bretton.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-03"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "GDPR",
+        "NIST"
+      ]
     },
     {
       "name": "Brex",
@@ -5670,7 +5767,8 @@
         "ISO 27001",
         "GDPR",
         "CCPA",
-        "NIST"
+        "NIST",
+        "SOC 2 Type I"
       ],
       "csaStar": {
         "level": 1,
@@ -5681,7 +5779,7 @@
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/bugsnag-inc"
       },
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Builder",
@@ -5700,9 +5798,11 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=buildertrend.com&sz=128",
       "certifications": [
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "PCI DSS",
+        "NIST"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Buildkite",
@@ -6064,6 +6164,18 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Canopy Wave",
+      "website": "https://canopywave.com",
+      "trustCenter": "https://trust.canopywave.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=canopywave.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
+    },
+    {
       "name": "Canopytax",
       "website": "https://canopytax.com",
       "trustCenter": "https://trust.canopytax.com",
@@ -6164,10 +6276,12 @@
       "platform": "Secureframe",
       "iconUrl": "https://www.google.com/s2/favicons?domain=runcaptain.com&sz=128",
       "certifications": [
-        "SOC 2"
+        "SOC 2",
+        "HIPAA",
+        "GDPR"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Captiv8",
@@ -6320,7 +6434,16 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=get-carrot.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA",
+        "HITRUST",
+        "PCI DSS",
+        "GDPR",
+        "CPRA"
+      ]
     },
     {
       "name": "Carrumhealth",
@@ -6355,10 +6478,11 @@
         "SOC 2 Type II",
         "SOC 3",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Cartesia",
@@ -6415,7 +6539,12 @@
       "trustCenter": "https://trust.casco.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=casco.com&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 2 Type I",
+        "FedRAMP"
+      ]
     },
     {
       "name": "Caseware",
@@ -6532,7 +6661,10 @@
         "CCPA",
         "NIST",
         "TX-RAMP",
-        "StateRAMP"
+        "StateRAMP",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701"
       ],
       "csaStar": {
         "level": 1,
@@ -6543,7 +6675,7 @@
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/cato-networks"
       },
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Cayuse",
@@ -6610,9 +6742,10 @@
         "GDPR",
         "CCPA",
         "CPRA",
-        "NIST"
+        "NIST",
+        "ISO 42001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Cellbyte",
@@ -6832,7 +6965,11 @@
       "trustCenter": "https://trust.cgm.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=cgm.com&sz=128",
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "ISO 27001",
+        "GDPR"
+      ]
     },
     {
       "name": "Chainalysis",
@@ -7044,9 +7181,11 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "StateRAMP"
+        "StateRAMP",
+        "SOC 2 Type I",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Checkout",
@@ -7364,10 +7503,11 @@
         "HIPAA",
         "FedRAMP",
         "NIST",
-        "TX-RAMP"
+        "TX-RAMP",
+        "HITRUST"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Ciswired",
@@ -7720,10 +7860,11 @@
         "GDPR",
         "CCPA",
         "CPRA",
-        "CSA STAR"
+        "CSA STAR",
+        "ISO 27017"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Clickboarding",
@@ -7754,10 +7895,11 @@
         "PCI DSS",
         "GDPR",
         "CCPA",
-        "NIST"
+        "NIST",
+        "ISO 27701"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Clickup",
@@ -7876,10 +8018,11 @@
         "GDPR",
         "CCPA",
         "NIST",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Cloudbooking",
@@ -7922,10 +8065,11 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "StateRAMP"
+        "StateRAMP",
+        "PCI DSS"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Cloudflare",
@@ -8003,9 +8147,11 @@
         "SOC 2 Type II",
         "HIPAA",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001",
+        "PCI DSS"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Cloudzero",
@@ -8072,7 +8218,7 @@
       "platform": "Conveyor",
       "iconUrl": "https://www.google.com/s2/favicons?domain=coalfire.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
         "SOC 3",
@@ -8082,7 +8228,9 @@
         "PCI DSS",
         "GDPR",
         "CCPA",
-        "CSA STAR"
+        "CSA STAR",
+        "ISO 27001",
+        "ISO 27701"
       ]
     },
     {
@@ -8501,7 +8649,15 @@
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/commercetools-gmbh"
       },
       "useBrandfetch": true,
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2",
+        "ISO 27001",
+        "HIPAA",
+        "PCI DSS",
+        "GDPR",
+        "CSA STAR"
+      ]
     },
     {
       "name": "Common Paper",
@@ -8615,11 +8771,12 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=compulinkadvantage.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
         "SOC 2 Type I",
-        "HIPAA"
+        "HIPAA",
+        "SOC 3"
       ]
     },
     {
@@ -8727,9 +8884,10 @@
         "SOC 2 Type II",
         "GDPR",
         "CCPA",
-        "CPRA"
+        "CPRA",
+        "NIST"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Connectiverx",
@@ -9183,7 +9341,11 @@
       "trustCenter": "https://trust.corvel.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=corvel.com&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2",
+        "SOC 3"
+      ]
     },
     {
       "name": "Costargroup",
@@ -9613,7 +9775,10 @@
       "trustCenter": "https://trust.crystalknows.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=crystalknows.com&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2"
+      ]
     },
     {
       "name": "Csdisco",
@@ -9786,7 +9951,15 @@
       "website": "https://customer.io/",
       "trustCenter": "https://customer.io/security",
       "platform": "Self-hosted",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=customer.io&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=customer.io&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA",
+        "GDPR",
+        "CCPA"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Cvent",
@@ -9804,10 +9977,11 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "TX-RAMP"
+        "TX-RAMP",
+        "PCI DSS"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Cvpartner",
@@ -9895,10 +10069,11 @@
         "ISO 27701",
         "PCI DSS",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Cyberresilience",
@@ -10103,10 +10278,11 @@
         "CCPA",
         "CPRA",
         "CSA STAR",
-        "NIST"
+        "NIST",
+        "HIPAA"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Darktrace",
@@ -10115,7 +10291,13 @@
       "platform": "Conveyor",
       "iconUrl": "https://www.google.com/s2/favicons?domain=darktrace.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "ISO 27001",
+        "ISO 27018",
+        "ISO 42001",
+        "GDPR"
+      ]
     },
     {
       "name": "Dash Hudson",
@@ -10456,10 +10638,11 @@
         "HIPAA",
         "GDPR",
         "CCPA",
-        "CPRA"
+        "CPRA",
+        "SOC 2 Type II"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Dbos",
@@ -10485,9 +10668,11 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "NIST"
+        "NIST",
+        "ISO 27017",
+        "ISO 27018"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Ddiworld",
@@ -10988,10 +11173,12 @@
         "GDPR",
         "CCPA",
         "TX-RAMP",
-        "StateRAMP"
+        "StateRAMP",
+        "ISO 27001",
+        "ISO 27017"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Deviniti",
@@ -11084,7 +11271,8 @@
         "CCPA",
         "CPRA",
         "CSA STAR",
-        "NIST"
+        "NIST",
+        "TX-RAMP"
       ],
       "csaStar": {
         "level": 1,
@@ -11095,7 +11283,7 @@
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/dialpad-inc"
       },
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Dickinson Wright",
@@ -11746,12 +11934,13 @@
       "trustCenter": "https://trustcenter.doxy.me",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=doxy.me&sz=128",
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
         "SOC 3",
         "HIPAA",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001"
       ]
     },
     {
@@ -12066,10 +12255,12 @@
         "GDPR",
         "CCPA",
         "TX-RAMP",
-        "StateRAMP"
+        "StateRAMP",
+        "ISO 27001",
+        "ISO 27017"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "EAB",
@@ -12175,7 +12366,10 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=easypost.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "EBANX",
@@ -12279,6 +12473,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Eddie",
+      "website": "https://www.heyeddie.ai",
+      "trustCenter": "https://trust.heyeddie.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=heyeddie.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02"
+    },
+    {
       "name": "Eden Data",
       "website": "https://edendata.com/",
       "trustCenter": "https://trust.edendata.com/",
@@ -12338,6 +12541,15 @@
         "NIST"
       ],
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Ediphi",
+      "website": "https://www.ediphi.com",
+      "trustCenter": "https://trust.ediphi.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=ediphi.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02"
     },
     {
       "name": "Edisonscientific",
@@ -12480,10 +12692,12 @@
         "ISO 42001",
         "FedRAMP",
         "GDPR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "CCPA",
+        "SOX"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Einfochips",
@@ -12501,9 +12715,10 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=ek.co&sz=128",
       "certifications": [
-        "ISO 27001"
+        "ISO 27001",
+        "GDPR"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Elastiflow",
@@ -12669,7 +12884,12 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=emanate.ai&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-08-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "HIPAA",
+        "GDPR"
+      ]
     },
     {
       "name": "Emarketer",
@@ -12877,9 +13097,10 @@
       "certifications": [
         "SOC 2 Type II",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "PCI DSS"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Englishscore",
@@ -12979,10 +13200,11 @@
         "ISO 27001",
         "GDPR",
         "CCPA",
-        "CPRA"
+        "CPRA",
+        "HIPAA"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Eolymp",
@@ -13229,7 +13451,13 @@
       "trustCenter": "https://trustcenter.esko.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=esko.com&sz=128",
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "GDPR",
+        "SOX"
+      ]
     },
     {
       "name": "Eskuad",
@@ -13301,10 +13529,11 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=eupry.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "ISO 27001",
-        "ISO 27018"
+        "ISO 27018",
+        "GDPR"
       ]
     },
     {
@@ -13355,10 +13584,11 @@
         "GDPR",
         "CCPA",
         "NIST",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Everestgrp",
@@ -13580,7 +13810,9 @@
         "HITRUST",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "CSA STAR",
+        "NIST"
       ],
       "csaStar": {
         "level": 1,
@@ -13591,7 +13823,7 @@
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/exclaimer-ltd"
       },
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Exclusive Networks",
@@ -13785,7 +14017,12 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=extensiv.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-06"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "Exterro",
@@ -13817,7 +14054,14 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=extrahop.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-06"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "HIPAA",
+        "FedRAMP",
+        "CSA STAR"
+      ]
     },
     {
       "name": "Extreme Networks",
@@ -13937,9 +14181,10 @@
       "certifications": [
         "SOC 2 Type II",
         "ISO 27001",
-        "ISO 27701"
+        "ISO 27701",
+        "SOC 2 Type I"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Fal",
@@ -13956,9 +14201,10 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=fama.io&sz=128",
       "certifications": [
-        "SOC 2 Type I"
+        "SOC 2 Type I",
+        "SOC 2 Type II"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Fareharbor",
@@ -13982,7 +14228,11 @@
       "trustCenter": "https://trust.farmjournal.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=farmjournal.com&sz=128",
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3"
+      ]
     },
     {
       "name": "Faros",
@@ -14209,7 +14459,13 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701",
+        "ISO 42001",
+        "PCI DSS"
       ],
       "csaStar": {
         "level": 1,
@@ -14221,7 +14477,7 @@
         "registryUrl": "https://cloudsecurityalliance.org/star/registry/figma"
       },
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Figment",
@@ -14492,10 +14748,11 @@
         "GDPR",
         "CCPA",
         "CSA STAR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "FedRAMP"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Fireworks AI",
@@ -14550,10 +14807,11 @@
         "SOC 2 Type II",
         "ISO 27001",
         "CSA STAR",
-        "NIST"
+        "NIST",
+        "GDPR"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Firststreet",
@@ -14569,7 +14827,10 @@
       "trustCenter": "https://trust.fiscal.ai",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=fiscal.ai&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2"
+      ]
     },
     {
       "name": "Fishbowl",
@@ -14586,9 +14847,10 @@
       "platform": "Conveyor",
       "iconUrl": "https://www.google.com/s2/favicons?domain=fispan.com&sz=128",
       "certifications": [
-        "SOC 2 Type II"
+        "SOC 2 Type II",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Fitprime",
@@ -14759,9 +15021,10 @@
       "platform": "Secureframe",
       "iconUrl": "https://www.google.com/s2/favicons?domain=flexibits.com&sz=128",
       "certifications": [
-        "SOC 2"
+        "SOC 2",
+        "SOC 2 Type II"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Flightschedulepro",
@@ -14840,9 +15103,11 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=flora.ai&sz=128",
       "certifications": [
         "SOC 2 Type I",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type II",
+        "GDPR"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "FLORA",
@@ -14852,10 +15117,12 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=florafauna.ai&sz=128",
       "certifications": [
         "SOC 2 Type I",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type II",
+        "GDPR"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Florence",
@@ -15087,10 +15354,11 @@
       "certifications": [
         "SOC 2 Type I",
         "HIPAA",
-        "CCPA"
+        "CCPA",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Formance",
@@ -15237,7 +15505,12 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=freshpaint.io&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-31"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "HIPAA",
+        "HITRUST"
+      ]
     },
     {
       "name": "FreshWorks",
@@ -15254,10 +15527,11 @@
         "GDPR",
         "CCPA",
         "CSA STAR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "FedRAMP"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Friendli",
@@ -15273,7 +15547,11 @@
       "website": "https://frisbii-media.com",
       "trustCenter": "https://trust.frisbii-media.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=frisbii-media.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=frisbii-media.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Fromsmash",
@@ -15282,9 +15560,10 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=fromsmash.com&sz=128",
       "certifications": [
-        "ISO 27001"
+        "ISO 27001",
+        "GDPR"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Front",
@@ -15308,10 +15587,11 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "CSA STAR"
+        "CSA STAR",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Frontsteps",
@@ -15397,7 +15677,11 @@
       "trustCenter": "https://trust.fullview.io",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=fullview.io&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2",
+        "GDPR"
+      ]
     },
     {
       "name": "Fundapps",
@@ -15527,7 +15811,14 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=gainsight.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-31"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "Galaxydigital",
@@ -15660,9 +15951,10 @@
       "platform": "Conveyor",
       "iconUrl": "https://www.google.com/s2/favicons?domain=gdt.com&sz=128",
       "certifications": [
-        "SOC 2 Type II"
+        "SOC 2 Type II",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Gecko Robotics",
@@ -15938,10 +16230,11 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=getunblocked.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
-        "SOC 3"
+        "SOC 3",
+        "GDPR"
       ]
     },
     {
@@ -16253,7 +16546,12 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=globalsign.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27701"
+      ]
     },
     {
       "name": "Globalstar",
@@ -16410,9 +16708,11 @@
         "GDPR",
         "CCPA",
         "NIST",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001",
+        "ISO 27701"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Gong",
@@ -16454,9 +16754,11 @@
         "SOC 2 Type II",
         "ISO 27001",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "SOC 3",
+        "NIST"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Goodstack",
@@ -16686,6 +16988,15 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "Graphy",
+      "website": "https://graphy.dev",
+      "trustCenter": "https://trust.graphy.dev/",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=graphy.dev&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02"
+    },
+    {
       "name": "Grasp",
       "website": "https://grasp.gg",
       "trustCenter": "https://trust.grasp.gg",
@@ -16789,10 +17100,13 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001",
+        "ISO 27701",
+        "PCI DSS"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Greenlight",
@@ -16930,7 +17244,11 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=gryphon.ai&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-06"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type I",
+        "ISO 27001"
+      ]
     },
     {
       "name": "Gsr",
@@ -17036,9 +17354,10 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=h2o.ai&sz=128",
       "certifications": [
         "SOC 2 Type II",
-        "FedRAMP"
+        "FedRAMP",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Hack The Box",
@@ -17087,7 +17406,10 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=hackmd.io&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Hadrius",
@@ -17115,9 +17437,10 @@
       "certifications": [
         "SOC 2 Type II",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "PCI DSS"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Haladir",
@@ -17140,7 +17463,11 @@
       "website": "https://halcyon.ai",
       "trustCenter": "https://trust.halcyon.ai",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=halcyon.ai&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=halcyon.ai&sz=128",
+      "certifications": [
+        "SOC 2 Type II"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Halopsa",
@@ -17200,10 +17527,18 @@
         "SOC 2 Type I",
         "PCI DSS",
         "CSA STAR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "SOC 3",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701",
+        "GDPR",
+        "CCPA",
+        "NIST"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Hanoverresearch",
@@ -18217,10 +18552,14 @@
         "GDPR",
         "CCPA",
         "CSA STAR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Hoplite",
@@ -18610,7 +18949,12 @@
       "platform": "Secureframe",
       "iconUrl": "https://www.google.com/s2/favicons?domain=hyperspell.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-03"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "HIPAA",
+        "GDPR"
+      ]
     },
     {
       "name": "Hyphensolutions",
@@ -18691,10 +19035,11 @@
         "SOC 2 Type II",
         "SOC 2 Type I",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "NIST"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "IcePanel",
@@ -18772,9 +19117,10 @@
         "ISO 27001",
         "ISO 27701",
         "GDPR",
-        "NIST"
+        "NIST",
+        "ISO 42001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Id4me Me",
@@ -18795,9 +19141,10 @@
         "SOC 2 Type II",
         "ISO 27001",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type I"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Iden",
@@ -19018,9 +19365,10 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "StateRAMP"
+        "StateRAMP",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Imprint",
@@ -19041,7 +19389,14 @@
       "website": "https://improvado.io",
       "trustCenter": "https://trust.improvado.io",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=improvado.io&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=improvado.io&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "HIPAA",
+        "GDPR",
+        "CCPA"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Inbenta",
@@ -19363,9 +19718,11 @@
         "SOC 3",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type I",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "INSPECTORIO",
@@ -19464,9 +19821,10 @@
         "PCI DSS",
         "GDPR",
         "CCPA",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Instrumentl",
@@ -20202,14 +20560,15 @@
       "platform": "Conveyor",
       "iconUrl": "https://www.google.com/s2/favicons?domain=jiminny.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
         "SOC 3",
         "HIPAA",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type I"
       ]
     },
     {
@@ -20487,10 +20846,11 @@
         "ISO 27018",
         "ISO 27701",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Jupus De",
@@ -20811,7 +21171,15 @@
       "website": "https://katalon.com",
       "trustCenter": "https://trust.katalon.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=katalon.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=katalon.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 42001",
+        "GDPR"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Kbc Global",
@@ -20953,10 +21321,11 @@
         "ISO 27001",
         "FedRAMP",
         "GDPR",
-        "NIST"
+        "NIST",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Keyloop",
@@ -21072,7 +21441,10 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=kindbody.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Kindly",
@@ -21156,9 +21528,11 @@
         "GDPR",
         "CCPA",
         "CSA STAR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001",
+        "ISO 27017"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Klaxoon",
@@ -21375,7 +21749,7 @@
       "platform": "Conveyor",
       "iconUrl": "https://www.google.com/s2/favicons?domain=komodohealth.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
         "SOC 3",
@@ -21385,7 +21759,8 @@
         "GDPR",
         "CCPA",
         "TX-RAMP",
-        "StateRAMP"
+        "StateRAMP",
+        "SOC 2 Type I"
       ]
     },
     {
@@ -21508,7 +21883,15 @@
       "trustCenter": "https://trust.kornferry.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=kornferry.com&sz=128",
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27018",
+        "ISO 27701",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "korzo",
@@ -21587,9 +21970,10 @@
         "HIPAA",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "PCI DSS"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Kurrent",
@@ -21644,7 +22028,14 @@
       "platform": "HyperComply",
       "iconUrl": "https://www.google.com/s2/favicons?domain=labelbox.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA",
+        "PCI DSS",
+        "GDPR"
+      ]
     },
     {
       "name": "Labster",
@@ -21709,7 +22100,15 @@
       "trustCenter": "https://trust.lakera.ai",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=lakera.ai&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA",
+        "PCI DSS",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "Lakesidesoftware",
@@ -21719,9 +22118,10 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=lakesidesoftware.com&sz=128",
       "certifications": [
         "SOC 2 Type II",
-        "ISO 27001"
+        "ISO 27001",
+        "HIPAA"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Lambda",
@@ -21746,7 +22146,13 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=lamin.ai&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2",
+        "ISO 27001",
+        "HIPAA",
+        "GDPR"
+      ]
     },
     {
       "name": "Laminar",
@@ -21847,10 +22253,11 @@
         "SOC 2 Type II",
         "SOC 2 Type I",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "HIPAA"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Lark",
@@ -21959,9 +22366,13 @@
         "ISO 42001",
         "HIPAA",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001",
+        "ISO 27018",
+        "ISO 27701",
+        "CSA STAR"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Lawline",
@@ -22187,7 +22598,11 @@
       "trustCenter": "https://trustcenter.legitscript.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=legitscript.com&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001"
+      ]
     },
     {
       "name": "Legora (formerly Leya)",
@@ -22205,7 +22620,13 @@
       "platform": "Secureframe",
       "iconUrl": "https://www.google.com/s2/favicons?domain=lemfi.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-07-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "PCI DSS",
+        "GDPR"
+      ]
     },
     {
       "name": "lemlist",
@@ -22286,10 +22707,11 @@
         "ISO 27001",
         "HIPAA",
         "HITRUST",
-        "GDPR"
+        "GDPR",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Level365",
@@ -22299,6 +22721,18 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=level365.com&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Level3AI",
+      "website": "https://www.level3.ai",
+      "trustCenter": "https://trust.level3.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=level3.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Levelall",
@@ -22384,7 +22818,10 @@
       "trustCenter": "https://trust.lexisnexisrisk.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=lexisnexisrisk.com&sz=128",
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Lexmata",
@@ -22462,10 +22899,11 @@
         "ISO 27001",
         "PCI DSS",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Lightrun",
@@ -22525,7 +22963,12 @@
       "website": "https://limblecmms.com",
       "trustCenter": "https://trust.limblecmms.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=limblecmms.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=limblecmms.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Lime Technologies",
@@ -22799,10 +23242,12 @@
         "SOC 2 Type II",
         "HIPAA",
         "HITRUST",
-        "GDPR"
+        "GDPR",
+        "ISO 27001",
+        "PCI DSS"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Liveramp",
@@ -22940,10 +23385,11 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Logicmonitor",
@@ -22959,10 +23405,13 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Logiwa",
@@ -23070,9 +23519,12 @@
         "CCPA",
         "CSA STAR",
         "TX-RAMP",
-        "StateRAMP"
+        "StateRAMP",
+        "ISO 27001",
+        "ISO 27701",
+        "ISO 42001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Lucidic AI",
@@ -23095,10 +23547,11 @@
         "HITRUST",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type I"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Lucidworks",
@@ -23451,9 +23904,10 @@
         "HITRUST",
         "FedRAMP",
         "GDPR",
-        "StateRAMP"
+        "StateRAMP",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Maicoin",
@@ -23871,10 +24325,11 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Matterport",
@@ -24134,10 +24589,11 @@
         "ISO 27001",
         "ISO 27017",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type II"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Meili",
@@ -24538,9 +24994,10 @@
         "GDPR",
         "CCPA",
         "SOX",
-        "NIST"
+        "NIST",
+        "SOC 2 Type II"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Mib",
@@ -24760,10 +25217,11 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=minterellison.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
-        "ISO 27001"
+        "ISO 27001",
+        "ISO 42001"
       ]
     },
     {
@@ -24820,10 +25278,11 @@
         "ISO 27001",
         "ISO 42001",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "NIST"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Mirrorweb",
@@ -24933,7 +25392,10 @@
       "platform": "Secureframe",
       "iconUrl": "https://www.google.com/s2/favicons?domain=moda.app&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2"
+      ]
     },
     {
       "name": "Modal",
@@ -25151,10 +25613,14 @@
         "HIPAA",
         "HITRUST",
         "FedRAMP",
-        "GDPR"
+        "GDPR",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "TX-RAMP"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Moniepoint",
@@ -25196,10 +25662,11 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=montecarlodata.com&sz=128",
       "certifications": [
         "SOC 2 Type II",
-        "ISO 27001"
+        "ISO 27001",
+        "SOC 3"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Moodle",
@@ -25312,10 +25779,13 @@
         "HIPAA",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001",
+        "ISO 27701",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "MOVEdot",
@@ -25400,10 +25870,11 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=mux.com&sz=128",
       "certifications": [
         "SOC 2 Type II",
-        "GDPR"
+        "GDPR",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Mwe",
@@ -25784,9 +26255,12 @@
         "GDPR",
         "CCPA",
         "CSA STAR",
-        "NIST"
+        "NIST",
+        "ISO 27017",
+        "ISO 27018",
+        "TX-RAMP"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "NEOGOV",
@@ -26062,7 +26536,10 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=neuron7.ai&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Neuronsinc",
@@ -26133,12 +26610,13 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=nexos.ai&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
         "SOC 2 Type I",
         "ISO 27001",
-        "GDPR"
+        "GDPR",
+        "ISO 42001"
       ]
     },
     {
@@ -26348,13 +26826,15 @@
       "platform": "SecurityPal",
       "iconUrl": "https://www.google.com/s2/favicons?domain=noma.security&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
         "ISO 27001",
         "HIPAA",
         "GDPR",
-        "NIST"
+        "NIST",
+        "ISO 42001",
+        "CCPA"
       ]
     },
     {
@@ -26531,7 +27011,12 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=noteworthy.ai&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-08-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 2 Type I",
+        "SOC 3"
+      ]
     },
     {
       "name": "Notion",
@@ -26544,9 +27029,14 @@
         "SOC 3",
         "HIPAA",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type I",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Nova Credit",
@@ -26630,11 +27120,13 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=nrgmr.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type II",
+        "SOC 2 Type I"
       ]
     },
     {
@@ -26668,7 +27160,15 @@
       "trustCenter": "https://trustcenter.nuix.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=nuix.com&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "GDPR",
+        "NIST"
+      ]
     },
     {
       "name": "Nullstone",
@@ -26762,9 +27262,10 @@
       "platform": "Secureframe",
       "iconUrl": "https://www.google.com/s2/favicons?domain=nuvo.com&sz=128",
       "certifications": [
-        "SOC 2 Type II"
+        "SOC 2 Type II",
+        "PCI DSS"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Nuwebgroup",
@@ -27202,10 +27703,11 @@
       "certifications": [
         "SOC 2 Type II",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "CPRA"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Onboarded",
@@ -27258,6 +27760,15 @@
         "NIST"
       ],
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "OneClarity",
+      "website": "https://oneclarity.ai",
+      "trustCenter": "https://trust.oneclarity.ai",
+      "platform": "Sprinto",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=oneclarity.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02"
     },
     {
       "name": "OneCLI",
@@ -27546,7 +28057,10 @@
       "trustCenter": "https://trust.openrouter.ai",
       "platform": "Oneleet",
       "iconUrl": "https://www.google.com/s2/favicons?domain=openrouter.ai&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Opensanctions",
@@ -27617,6 +28131,18 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=tryopine.com&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Oplane",
+      "website": "https://www.oplane.com",
+      "trustCenter": "https://trust.oplane.com",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=oplane.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Opswat",
@@ -27744,7 +28270,13 @@
       "website": "https://orchestry.com",
       "trustCenter": "https://trust.orchestry.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=orchestry.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=orchestry.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Ordalie",
@@ -27914,10 +28446,11 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=ourlegup.com&sz=128",
       "certifications": [
-        "SOC 2 Type I"
+        "SOC 2 Type I",
+        "SOC 2 Type II"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Ouster",
@@ -28142,7 +28675,15 @@
       "website": "https://www.pagerduty.com/",
       "trustCenter": "https://www.pagerduty.com/security/",
       "platform": "Self-hosted",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=pagerduty.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=pagerduty.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "FedRAMP",
+        "PCI DSS",
+        "CCPA"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Palantir",
@@ -28696,7 +29237,7 @@
       "platform": "Conveyor",
       "iconUrl": "https://www.google.com/s2/favicons?domain=pega.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
         "SOC 3",
@@ -28704,7 +29245,10 @@
         "HITRUST",
         "FedRAMP",
         "PCI DSS",
-        "GDPR"
+        "GDPR",
+        "ISO 27001",
+        "ISO 42001",
+        "CSA STAR"
       ]
     },
     {
@@ -28752,9 +29296,10 @@
         "HITRUST",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Peopledatalabs",
@@ -28967,9 +29512,10 @@
       "certifications": [
         "SOC 2",
         "ISO 27001",
-        "CSA STAR"
+        "CSA STAR",
+        "ISO 42001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Perusall",
@@ -29394,10 +29940,11 @@
         "HIPAA",
         "FedRAMP",
         "CCPA",
-        "TX-RAMP"
+        "TX-RAMP",
+        "SOC 2 Type II"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Planview",
@@ -29641,10 +30188,11 @@
         "HITRUST",
         "FedRAMP",
         "GDPR",
-        "NIST"
+        "NIST",
+        "HIPAA"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "PointOne",
@@ -29689,6 +30237,18 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=pollen.cx&sz=128",
       "useBrandfetch": true,
       "lastVerified": "2026-07-01"
+    },
+    {
+      "name": "Polycam",
+      "website": "https://poly.cam",
+      "trustCenter": "https://trust.poly.cam",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=poly.cam&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Polymath",
@@ -29832,7 +30392,14 @@
       "website": "https://posthog.com/",
       "trustCenter": "https://trust.posthog.com/",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=posthog.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=posthog.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "HIPAA",
+        "GDPR",
+        "CCPA"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Postman",
@@ -29851,10 +30418,11 @@
         "CCPA",
         "CPRA",
         "CSA STAR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Potloc",
@@ -30050,9 +30618,10 @@
         "HIPAA",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "PrimaryBid",
@@ -30216,10 +30785,11 @@
         "GDPR",
         "CCPA",
         "NIST",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Productiv",
@@ -30286,9 +30856,11 @@
       "certifications": [
         "SOC 2 Type II",
         "HIPAA",
-        "PCI DSS"
+        "PCI DSS",
+        "SOC 2 Type I",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "project44",
@@ -30305,10 +30877,11 @@
         "PCI DSS",
         "GDPR",
         "CCPA",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Projectbalm",
@@ -30444,9 +31017,12 @@
       "platform": "Secureframe",
       "iconUrl": "https://www.google.com/s2/favicons?domain=pronto.io&sz=128",
       "certifications": [
-        "SOC 2 Type II"
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA",
+        "TX-RAMP"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Proof",
@@ -30647,10 +31223,12 @@
         "ISO 27001",
         "ISO 42001",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27017",
+        "ISO 27018"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Pulse",
@@ -30684,7 +31262,10 @@
       "trustCenter": "https://trust.purespectrum.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=purespectrum.com&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2"
+      ]
     },
     {
       "name": "Pursuanthealth",
@@ -30784,10 +31365,13 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=qgenda.com&sz=128",
       "certifications": [
         "SOC 2",
-        "TX-RAMP"
+        "TX-RAMP",
+        "SOC 2 Type II",
+        "HIPAA",
+        "FedRAMP"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Qgiv",
@@ -30795,7 +31379,12 @@
       "trustCenter": "https://trust.qgiv.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=qgiv.com&sz=128",
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "PCI DSS",
+        "TX-RAMP"
+      ]
     },
     {
       "name": "Qless",
@@ -30942,10 +31531,15 @@
         "CCPA",
         "NIST",
         "TX-RAMP",
-        "StateRAMP"
+        "StateRAMP",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701",
+        "PCI DSS"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Quantexa",
@@ -31019,9 +31613,11 @@
       "certifications": [
         "ISO 27001",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27017",
+        "ISO 27018"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "QuickBase",
@@ -31235,11 +31831,12 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=radarfirst.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2",
         "HITRUST",
-        "GDPR"
+        "GDPR",
+        "SOC 2 Type II"
       ]
     },
     {
@@ -31407,7 +32004,10 @@
       "platform": "Secureframe",
       "iconUrl": "https://www.google.com/s2/favicons?domain=rapidfolio.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-08-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2"
+      ]
     },
     {
       "name": "RapidSOS",
@@ -31445,10 +32045,11 @@
         "PCI DSS",
         "GDPR",
         "CCPA",
-        "NIST"
+        "NIST",
+        "TX-RAMP"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Ravenpack",
@@ -31549,9 +32150,10 @@
         "ISO 27001",
         "HIPAA",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "PCI DSS"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "RebelMouse",
@@ -31731,9 +32333,11 @@
         "GDPR",
         "CCPA",
         "CSA STAR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001",
+        "ISO 27701"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Redis",
@@ -31752,10 +32356,11 @@
         "GDPR",
         "CCPA",
         "CSA STAR",
-        "NIST"
+        "NIST",
+        "ISO 27701"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Redouble AI",
@@ -32368,9 +32973,10 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=reve.com&sz=128",
       "certifications": [
-        "SOC 2 Type I"
+        "SOC 2 Type I",
+        "SOC 2 Type II"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Revealdata",
@@ -33003,9 +33609,10 @@
       "platform": "Secureframe",
       "iconUrl": "https://www.google.com/s2/favicons?domain=rox.com&sz=128",
       "certifications": [
-        "SOC 2 Type II"
+        "SOC 2 Type II",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Rrd",
@@ -33125,9 +33732,10 @@
         "SOC 2 Type II",
         "SOC 3",
         "HIPAA",
-        "GDPR"
+        "GDPR",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Runtime",
@@ -33369,9 +33977,10 @@
         "HITRUST",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Saleo",
@@ -33448,10 +34057,12 @@
         "GDPR",
         "CCPA",
         "CSA STAR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001",
+        "ISO 27701"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Salesmessage",
@@ -33549,10 +34160,14 @@
         "HIPAA",
         "HITRUST",
         "FedRAMP",
-        "GDPR"
+        "GDPR",
+        "SOC 2 Type I",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27701"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Sapling",
@@ -33648,7 +34263,12 @@
       "trustCenter": "https://trust.sawtoothsoftware.com",
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=sawtoothsoftware.com&sz=128",
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "PCI DSS",
+        "GDPR"
+      ]
     },
     {
       "name": "Sayari",
@@ -33701,9 +34321,10 @@
       "certifications": [
         "ISO 27001",
         "GDPR",
-        "NIST"
+        "NIST",
+        "CSA STAR"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Scalr",
@@ -34045,7 +34666,11 @@
       "trustCenter": "https://trust.securedocs.com",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=securedocs.com&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2",
+        "ISO 27001"
+      ]
     },
     {
       "name": "Secureframe",
@@ -34609,10 +35234,11 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "CSA STAR"
+        "CSA STAR",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Sharesies",
@@ -34653,7 +35279,13 @@
       "website": "https://joinsherpa.com/",
       "trustCenter": "https://trust.joinsherpa.com/",
       "platform": "Secureframe",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=joinsherpa.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=joinsherpa.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "PCI DSS",
+        "GDPR"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Sherpany",
@@ -35084,10 +35716,11 @@
         "SOC 2 Type I",
         "ISO 27001",
         "ISO 27701",
-        "GDPR"
+        "GDPR",
+        "HIPAA"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Sisense",
@@ -35310,6 +35943,20 @@
       "lastVerified": "2026-07-01"
     },
     {
+      "name": "slng",
+      "website": "https://slng.ai",
+      "trustCenter": "https://trust.slng.ai",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=slng.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA"
+      ]
+    },
+    {
       "name": "Slope Software",
       "website": "https://slopesoftware.com",
       "trustCenter": "https://security.slopesoftware.com",
@@ -35376,9 +36023,11 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=smartdraw.com&sz=128",
       "certifications": [
         "SOC 2 Type II",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type I",
+        "CSA STAR"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Smarterservices",
@@ -35519,10 +36168,11 @@
         "HITRUST",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Snapfinance",
@@ -35693,7 +36343,16 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=socure.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-06"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701",
+        "FedRAMP",
+        "TX-RAMP"
+      ]
     },
     {
       "name": "Soda",
@@ -35702,13 +36361,14 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=soda.io&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
         "ISO 27001",
         "GDPR",
         "CCPA",
-        "NIST"
+        "NIST",
+        "SOC 3"
       ]
     },
     {
@@ -36308,9 +36968,11 @@
         "GDPR",
         "CCPA",
         "NIST",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001",
+        "ISO 42001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Sprinklr Live Chat",
@@ -36327,10 +36989,11 @@
         "PCI DSS",
         "GDPR",
         "CCPA",
-        "CPRA"
+        "CPRA",
+        "CSA STAR"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Sprinto",
@@ -36365,10 +37028,12 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "NIST"
+        "NIST",
+        "PCI DSS",
+        "CSA STAR"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Sproutvideo",
@@ -36510,7 +37175,13 @@
       "website": "https://stackct.com",
       "trustCenter": "https://trust.stackct.com",
       "platform": "SafeBase",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=stackct.com&sz=128"
+      "iconUrl": "https://www.google.com/s2/favicons?domain=stackct.com&sz=128",
+      "certifications": [
+        "SOC 2 Type II",
+        "SOC 3",
+        "PCI DSS"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Stack Overflow",
@@ -36776,7 +37447,13 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=stilta.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-07-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "Stiltsoft",
@@ -36911,7 +37588,12 @@
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=storylane.io&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2",
+        "ISO 42001",
+        "GDPR"
+      ]
     },
     {
       "name": "Strada",
@@ -37138,6 +37820,18 @@
         "SOC 3"
       ],
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Subble",
+      "website": "https://subble.com",
+      "trustCenter": "https://trust.subble.com",
+      "platform": "Sprinto",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=subble.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Subframe",
@@ -37404,10 +38098,14 @@
       "certifications": [
         "SOC 2 Type II",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Supermetrics",
@@ -37418,9 +38116,10 @@
       "certifications": [
         "SOC 2 Type II",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Superorder",
@@ -37768,9 +38467,10 @@
         "FedRAMP",
         "GDPR",
         "CCPA",
-        "NIST"
+        "NIST",
+        "ISO 27001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Synack",
@@ -37788,10 +38488,11 @@
         "CCPA",
         "NIST",
         "TX-RAMP",
-        "StateRAMP"
+        "StateRAMP",
+        "ISO 27001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Synap",
@@ -37894,10 +38595,11 @@
         "ISO 27001",
         "PCI DSS",
         "CCPA",
-        "NIST"
+        "NIST",
+        "ISO 42001"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Tablecheck",
@@ -38004,10 +38706,11 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=takecommandhealth.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "SOC 2 Type II",
-        "HIPAA"
+        "HIPAA",
+        "SOC 3"
       ]
     },
     {
@@ -38356,7 +39059,13 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=teamworks.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-05-07"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "GDPR",
+        "CCPA"
+      ]
     },
     {
       "name": "Techinsights",
@@ -38388,9 +39097,10 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=techpos.ca&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
-        "SOC 2 Type I"
+        "SOC 2 Type I",
+        "SOC 2 Type II"
       ]
     },
     {
@@ -38515,7 +39225,11 @@
       "platform": "Whistic",
       "iconUrl": "https://www.google.com/s2/favicons?domain=telos.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "ISO 27001",
+        "FedRAMP"
+      ]
     },
     {
       "name": "Templedigitalgroup",
@@ -39198,10 +39912,12 @@
         "ISO 42001",
         "GDPR",
         "CCPA",
-        "CSA STAR"
+        "CSA STAR",
+        "SOC 2 Type I",
+        "TX-RAMP"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Tint",
@@ -39243,6 +39959,18 @@
       "platform": "Oneleet",
       "iconUrl": "https://www.google.com/s2/favicons?domain=gettireswing.com&sz=128",
       "lastVerified": "2026-06-01"
+    },
+    {
+      "name": "Tisane Labs",
+      "website": "https://tisane.ai",
+      "trustCenter": "https://trust.tisane.ai",
+      "platform": "Scrut",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=tisane.ai&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
     },
     {
       "name": "Tispayments",
@@ -39369,12 +40097,26 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "TopK",
+      "website": "https://www.topk.io",
+      "trustCenter": "https://trust.topk.io",
+      "platform": "Vanta",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=topk.io&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02"
+    },
+    {
       "name": "Topo",
       "website": "https://www.topo.io/",
       "trustCenter": "https://trust.topo.io",
       "platform": "Vanta",
       "iconUrl": "https://www.google.com/s2/favicons?domain=topo.io&sz=128",
-      "useBrandfetch": true
+      "useBrandfetch": true,
+      "certifications": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Touchsurgery",
@@ -39977,6 +40719,18 @@
       "lastVerified": "2026-06-01"
     },
     {
+      "name": "TruYields",
+      "website": "https://truyields.com",
+      "trustCenter": "https://trust.truyields.com",
+      "platform": "SafeBase",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=truyields.com&sz=128",
+      "useBrandfetch": true,
+      "lastVerified": "2026-10-02",
+      "certifications": [
+        "SOC 2 Type II"
+      ]
+    },
+    {
       "name": "Truyo",
       "website": "https://truyo.com",
       "trustCenter": "https://trust.truyo.com",
@@ -40356,9 +41110,10 @@
         "HIPAA",
         "FedRAMP",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "SOC 2 Type I"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Unisson",
@@ -40385,9 +41140,10 @@
       "platform": "Conveyor",
       "iconUrl": "https://www.google.com/s2/favicons?domain=unity.com&sz=128",
       "certifications": [
-        "SOC 2 Type II"
+        "SOC 2 Type II",
+        "PCI DSS"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Unmind",
@@ -40530,10 +41286,11 @@
       "certifications": [
         "SOC 2 Type II",
         "ISO 27001",
-        "CCPA"
+        "CCPA",
+        "PCI DSS"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Upstash",
@@ -40766,9 +41523,10 @@
       "certifications": [
         "SOC 2 Type II",
         "ISO 27001",
-        "GDPR"
+        "GDPR",
+        "HIPAA"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Vable",
@@ -40788,10 +41546,11 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=vaimo.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01",
+      "lastVerified": "2026-09-01",
       "certifications": [
         "HIPAA",
-        "GDPR"
+        "GDPR",
+        "PCI DSS"
       ]
     },
     {
@@ -40840,9 +41599,10 @@
         "ISO 27701",
         "GDPR",
         "CCPA",
-        "CPRA"
+        "CPRA",
+        "ISO 42001"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Valimail",
@@ -40932,9 +41692,11 @@
       "iconUrl": "https://www.google.com/s2/favicons?domain=vaxcare.com&sz=128",
       "certifications": [
         "HIPAA",
-        "HITRUST"
+        "HITRUST",
+        "SOC 2",
+        "PCI DSS"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Vcluster",
@@ -40943,7 +41705,10 @@
       "platform": "SafeBase",
       "iconUrl": "https://www.google.com/s2/favicons?domain=vcluster.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2"
+      ]
     },
     {
       "name": "Vecteezy",
@@ -41126,10 +41891,11 @@
         "PCI DSS",
         "GDPR",
         "CCPA",
-        "CPRA"
+        "CPRA",
+        "SOC 3"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Verda",
@@ -42235,10 +43001,13 @@
       "platform": "Conveyor",
       "iconUrl": "https://www.google.com/s2/favicons?domain=coreweave.com&sz=128",
       "certifications": [
-        "SOC 2 Type II"
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "WeInfuse",
@@ -42504,9 +43273,11 @@
       "certifications": [
         "SOC 2 Type II",
         "GDPR",
-        "CCPA"
+        "CCPA",
+        "ISO 27001",
+        "ISO 27018"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Wispr",
@@ -42803,10 +43574,17 @@
         "SOC 3",
         "FedRAMP",
         "GDPR",
-        "TX-RAMP"
+        "TX-RAMP",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 27701",
+        "ISO 42001",
+        "CSA STAR",
+        "NIST"
       ],
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Workera",
@@ -43228,9 +44006,10 @@
         "ISO 27017",
         "ISO 27018",
         "ISO 27701",
-        "GDPR"
+        "GDPR",
+        "CSA STAR"
       ],
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01"
     },
     {
       "name": "Yoodli",
@@ -43316,7 +44095,11 @@
       "trustCenter": "https://trust.yubico.com",
       "platform": "Whistic",
       "iconUrl": "https://www.google.com/s2/favicons?domain=yubico.com&sz=128",
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "NIST"
+      ]
     },
     {
       "name": "Yugabyte",
@@ -43852,12 +44635,18 @@
       "platform": "HyperComply",
       "iconUrl": "https://www.google.com/s2/favicons?domain=zylo.com&sz=128",
       "useBrandfetch": true,
-      "lastVerified": "2026-06-01"
+      "lastVerified": "2026-09-01",
+      "certifications": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA",
+        "CPRA"
+      ]
     }
   ],
   "meta": {
-    "total": 4072,
-    "generated": "2026-09-01T14:03:28.933Z",
+    "total": 4086,
+    "generated": "2026-10-02T18:10:08.316Z",
     "version": "1.0.0"
   }
 }
